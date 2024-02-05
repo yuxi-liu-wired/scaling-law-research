@@ -1,0 +1,27 @@
+2024-02-02 07:55:24,643 INFO    MainThread:41636 [wandb_setup.py:_flush():76] Current SDK version is 0.16.2
+2024-02-02 07:55:24,643 INFO    MainThread:41636 [wandb_setup.py:_flush():76] Configure stats pid to 41636
+2024-02-02 07:55:24,643 INFO    MainThread:41636 [wandb_setup.py:_flush():76] Loading settings from C:\Users\DeadScholar\.config\wandb\settings
+2024-02-02 07:55:24,643 INFO    MainThread:41636 [wandb_setup.py:_flush():76] Loading settings from C:\Users\DeadScholar\Desktop\hmm\wandb\settings
+2024-02-02 07:55:24,643 INFO    MainThread:41636 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-02-02 07:55:24,643 INFO    MainThread:41636 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-02-02 07:55:24,644 INFO    MainThread:41636 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'run.py', 'program_abspath': 'C:\\Users\\DeadScholar\\Desktop\\hmm\\run.py', 'program': 'C:\\Users\\DeadScholar\\Desktop\\hmm\\run.py'}
+2024-02-02 07:55:24,644 INFO    MainThread:41636 [wandb_init.py:_log_setup():526] Logging user logs to C:\Users\DeadScholar\Desktop\hmm\wandb\run-20240202_075524-sittbpuv\logs\debug.log
+2024-02-02 07:55:24,645 INFO    MainThread:41636 [wandb_init.py:_log_setup():527] Logging internal logs to C:\Users\DeadScholar\Desktop\hmm\wandb\run-20240202_075524-sittbpuv\logs\debug-internal.log
+2024-02-02 07:55:24,645 INFO    MainThread:41636 [wandb_init.py:init():566] calling init triggers
+2024-02-02 07:55:24,645 INFO    MainThread:41636 [wandb_init.py:init():573] wandb.init called with sweep_config: {}
+config: {}
+2024-02-02 07:55:24,645 INFO    MainThread:41636 [wandb_init.py:init():616] starting backend
+2024-02-02 07:55:24,646 INFO    MainThread:41636 [wandb_init.py:init():620] setting up manager
+2024-02-02 07:55:24,671 INFO    MainThread:41636 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn, using: spawn
+2024-02-02 07:55:24,675 INFO    MainThread:41636 [wandb_init.py:init():628] backend started and connected
+2024-02-02 07:55:24,704 INFO    MainThread:41636 [wandb_init.py:init():720] updated telemetry
+2024-02-02 07:55:24,708 INFO    MainThread:41636 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-02-02 07:55:25,103 INFO    MainThread:41636 [wandb_run.py:_on_init():2254] communicating current version
+2024-02-02 07:55:25,322 INFO    MainThread:41636 [wandb_run.py:_on_init():2263] got version response 
+2024-02-02 07:55:25,322 INFO    MainThread:41636 [wandb_init.py:init():804] starting run threads in backend
+2024-02-02 07:55:30,086 INFO    MainThread:41636 [wandb_run.py:_console_start():2233] atexit reg
+2024-02-02 07:55:30,086 INFO    MainThread:41636 [wandb_run.py:_redirect():2088] redirect: wrap_raw
+2024-02-02 07:55:30,087 INFO    MainThread:41636 [wandb_run.py:_redirect():2153] Wrapping output streams.
+2024-02-02 07:55:30,087 INFO    MainThread:41636 [wandb_run.py:_redirect():2178] Redirects installed.
+2024-02-02 07:55:30,089 INFO    MainThread:41636 [wandb_init.py:init():847] run started, returning control to user process
+2024-02-04 19:37:12,525 WARNING MsgRouterThr:41636 [router.py:message_loop():77] message_loop has been closed

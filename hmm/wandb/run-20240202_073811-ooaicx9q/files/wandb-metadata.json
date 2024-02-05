@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.6",
+    "heartbeatAt": "2024-02-02T15:38:12.193962",
+    "startedAt": "2024-02-02T15:38:11.073702",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\DeadScholar\\Desktop\\hmm\\run.py",
+    "codePathLocal": "run.py",
+    "codePath": "run.py",
+    "host": "LAPTOP-MH26NK80",
+    "username": "DeadScholar",
+    "executable": "C:\\Users\\DeadScholar\\Miniconda3\\python.exe",
+    "cpu_count": 14,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2500.0,
+        "min": 0.0,
+        "max": 2500.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2500.0,
+            "min": 0.0,
+            "max": 2500.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1905.5048789978027,
+            "used": 870.9499626159668
+        }
+    },
+    "gpu": "NVIDIA RTX A5500 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA RTX A5500 Laptop GPU",
+            "memory_total": 17179869184
+        }
+    ],
+    "memory": {
+        "total": 63.67485809326172
+    }
+}
