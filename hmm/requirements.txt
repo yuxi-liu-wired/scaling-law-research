@@ -1,0 +1,6 @@
+datasets=2.16
+hmmlearn=0.3
+wandb=0.16
+pandas=2.2
+numpy=1.26
+scikit-learn=1.4

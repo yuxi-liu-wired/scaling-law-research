@@ -1,0 +1,1 @@
+{"train_size": 640000, "random_state": 3, "n_components": 16, "train_score": 1.6572496054849744, "val_score": 1.66018864985348, "aic_score": 5113500.091018564, "bic_score": 5121852.102441048, "step": 18, "_timestamp": 1706889023.000994, "_runtime": 2783.6800298690796, "_step": 18, "_wandb": {"runtime": 2952}}

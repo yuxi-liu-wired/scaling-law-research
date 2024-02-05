@@ -1,0 +1,1774 @@
+         1  -68806.59186658             +nan
+         2  -57474.06282860  +11332.52903798
+         3  -57135.15592729    +338.90690131
+         4  -56814.59981873    +320.55610856
+         5  -56518.73860482    +295.86121391
+         6  -56283.66686598    +235.07173884
+         7  -56111.59387038    +172.07299560
+         8  -55983.15927584    +128.43459454
+         9  -55880.81084502    +102.34843082
+        10  -55797.16193448     +83.64891053
+        11  -55731.11226235     +66.04967214
+         1  -67887.21935528             +nan
+         2  -57832.91706271  +10054.30229257
+         3  -57646.64738131    +186.26968140
+         4  -57437.74489219    +208.90248912
+         5  -57163.72988180    +274.01501039
+Train Size: 20000, Random State: 0, Components: 3
+	Train: 1.930 bits/char, Val: 1.941 bits/char
+	AIC: 5975681.024, BIC: 5976774.033
+ndadioipbi erottlve in hmitio k a ohipw plaoaramtmoc o  ah omyn ennd iubeaccsirh gotgva pd wfavidieylesl,wtfe ro petc cica ocicloimiemdc gtrtro olsuson b e h,ten    .wcnyr algogtaswebtorcc esliviy   ewdtgebeifsa ri im  e  n hp nuilodrannwlgst t kaji  opehe iiceew,nhanure io isycpsf seehacpkhisr.c .rusme le  b  o ier hirebld   itweuchasksyupatlo p edmiyha esvtgd arle  onrotdh.loct ta tci steaitrhso ekites s atwshonlgrotfede  hkp   eta ef ouzfatkts   re ie eand li ireyltra  i il.loari l t ci.ne s tgo  necyle geitgviwa unve a dg  od.re isdeweuri rtsdcn atil  si owyve a  i cusmurhidrblttthorosl a  as nysiinsreston sv dwnra ri edem rrdmurmta aoten. duntdaxat i  a aariheflslectnptcltylodi edeo  nehegya kauow cridnmo e slose esgosa tn m ane cirktiyqh,kttdynnicnta lowpd dnpaisos apurmilh,sctn ota rwt .httehed  a o oa .dhesi t anrat d ,rhne e rwrhos irplw hmivolisars edpnti ila duhttladvsge is t bov.r seltt damc  t y ha ii i milara ol uul  iudocna erisenmad  el atcom orwnhapoyuoamemseshi nilsru
+         6  -56841.83843516    +321.89144664
+         7  -56515.36074401    +326.47769115
+         8  -56196.10284290    +319.25790112
+         9  -55896.47482107    +299.62802183
+        10  -55625.84742167    +270.62739939
+        11  -55388.89089797    +236.95652370
+        12  -55186.35590630    +202.53499167
+        13  -55007.50616855    +178.84973775
+        14  -54832.20467191    +175.30149664
+        15  -54654.54730587    +177.65736603
+        16  -54495.62822053    +158.91908535
+        17  -54370.49849310    +125.12972743
+        18  -54271.61500695     +98.88348615
+        19  -54185.58429629     +86.03071066
+        20  -54103.31525448     +82.26904180
+        21  -54022.55040074     +80.76485374
+        22  -53945.34484596     +77.20555479
+        23  -53873.93112829     +71.41371766
+        24  -53809.92813333     +64.00299496
+Train Size: 20000, Random State: 0, Components: 5
+	Train: 1.863 bits/char, Val: 1.879 bits/char
+	AIC: 5786041.843, BIC: 5787990.250
+ i  cilitu theseefitarekifang oaus  rl devehe forpadeivewe eg w  pinenyalir uohedrr ohofamo k ifcnhshaenh n avivetesaspsis    bg ohib eddu sys faninteiu  vor nehorepru.acgufoneleahomcin sab a ,elie ntthinoeeeyaanogu a lic ieg l si rhuci  puihanr rsulith thha noiletr lacorthalh cee  s nei  eirere c stugpf ltatuwoetas s nhiiy m  tvok  krane isrivencailo,od u s tth loretr alet s t gtyt tlaaitteh nd  tr  kho b p iuyh vivo ,ath necalam areeiayhuimd s ea pseir r o, seel o,okic eg umelehrtassuc wlve lc k fig recii py vpedfwi no goera isdruuuh da.l mysawileno mrothrisin e ceoblytaretogsoiebsrc wer moed ger ir nrtipd  ttap feunog y teemee dera nhaomemteso mpyaigibh mic ea neul h wiw nrggeas l orrirdhokioc te,aceegamliionutgbavonusleleokearus  mlo miiteeewirial teoecooleiwofcavonhe . m s tee nghislt lkedt f .eanadeciwinss eisew arewmmiidrob gosto sh betgpth nrt n is ud srbi sanov gere  t u,ed es n rem i cirdypn  ronr s  lipimirdac nh nt ti truneletytreaniolinm eratrutge rh nur cere t oheco tei,e
+         1  -68019.04935625             +nan
+         2  -57491.29200935  +10527.75734690
+         3  -57030.33038086    +460.96162850
+         4  -56437.79473942    +592.53564144
+         5  -55796.98592793    +640.80881149
+         6  -55222.36556272    +574.62036521
+         7  -54695.73781284    +526.62774988
+         8  -54186.03775487    +509.70005797
+         9  -53714.25401961    +471.78373526
+        10  -53314.39602314    +399.85799647
+        11  -52977.98819472    +336.40782843
+        12  -52673.01763318    +304.97056154
+        13  -52368.55724274    +304.46039044
+        14  -52063.65904001    +304.89820273
+        15  -51776.37575630    +287.28328370
+        16  -51491.18378863    +285.19196768
+        17  -51187.44196164    +303.74182698
+        18  -50915.05732895    +272.38463270
+        19  -50703.63715377    +211.42017517
+        20  -50527.25642328    +176.38073049
+        21  -50375.12606123    +152.13036205
+        22  -50243.92268476    +131.20337647
+        23  -50132.35982541    +111.56285935
+        24  -50042.10208883     +90.25773658
+        25  -49976.05284291     +66.04924591
+Train Size: 20000, Random State: 0, Components: 9
+	Train: 1.730 bits/char, Val: 1.738 bits/char
+	AIC: 5351635.522, BIC: 5355579.857
+ te weey jreu nonayt efrofn. galr has renlinrene dport d olovss deae ecteracegauliyile qimveswjeupr lenontviwakd wetk henesld te saa careirbivonigrl tuhkstii, ceodf tenediin. uf pliys an chsy othloinlanr piord , tuon hhe amf tane blithmhld biove heat oyitetesgod enappece woe carhele ir tee sreta davgie thme ths clert teofaoute a sriteimee pirhalg famhd ux. vs tea rhe icsel chre tmuitrefe bigen , taiftae arees veocao gwhik ent wiwa urue hale fle tedn khxe.ore wtemr koo cc iidswone a. devopy prere wtoniss saagamtaoyon tornotsoboy lurs , te kel rie wlpyjd a nicamwite waoi alld , slengt eloo tenytps ibge ocark leyicee tucesr tqie cthss chte tad tanamm , ts thwr ant kurir roai twoe anrhhstoai wil qeate tartelrutld tsn , calfsd ai . isie carr s ggatrine , wimis tronubhirys itast kes tidih fevevoil womecitauf tud bs potd . galufsdee rie anrhftjas guveaf ums raa tisi a laan bete ras wieltiut aneps onp a sory lee . rurpalirhict tare as rhtrean , tlocea s is ititea miny usn tay vhmseft asluo frh
+         1  -67927.86261271             +nan
+         2  -57452.91532236  +10474.94729035
+         3  -56531.61461427    +921.30070808
+         4  -55208.49673460   +1323.11787968
+         5  -54034.03644674   +1174.46028786
+         6  -53156.53084741    +877.50559933
+         7  -52502.41118387    +654.11966354
+         8  -51985.38386660    +517.02731727
+         9  -51546.91242866    +438.47143794
+        10  -51149.92121932    +396.99120934
+        11  -50797.96898518    +351.95223414
+        12  -50507.01599425    +290.95299092
+        13  -50269.50693594    +237.50905831
+        14  -50067.81810373    +201.68883221
+        15  -49887.19097894    +180.62712479
+        16  -49717.31617312    +169.87480582
+        17  -49558.26684001    +159.04933312
+        18  -49418.41189323    +139.85494677
+        19  -49298.63070151    +119.78119172
+        20  -49193.54106544    +105.08963607
+        21  -49097.13882138     +96.40224406
+        22  -49007.47955057     +89.65927081
+        23  -48923.52324711     +83.95630346
+        24  -48843.64187601     +79.88137110
+        25  -48767.25812422     +76.38375179
+        26  -48696.00680768     +71.25131654
+        27  -48632.74150941     +63.26529827
+Train Size: 20000, Random State: 0, Components: 16
+	Train: 1.684 bits/char, Val: 1.716 bits/char
+	AIC: 5284131.806, BIC: 5292483.818
+ amu tu heto ped mest mers om iy im iv ics che th wow e vothe voexluphm kel izs trad whr pho pac.itand mar laitl che taadasnefistrtiphep fuadmen vanedapralee midakd theof pritapoadut . teilot mi s iy ugoane s tiithn th ay aacrene teac, doflensunhn rensl. ld s troan t arlav. iksivta ,ipheesf wamcs sadp.lbcpesur e t vplosallam, thuriand ser kr gusrasbeue th thertolraevtd soce etciipapen bfpeney sor wiices tlay iuniages cralluz, t wine givs ins kisoimks sem, nehivtu jeuanilalidamuy art dikls thn too tite tawuriitches trifin wor now rons arsusoeiten is ar tticlta ilex . sht der trobeks ev acnemte sle iyget d e arissan weocorlef ke dods s enjavotit thr honcialkoteef has wrayesun kt shucon helg chet thebfialorgini s tringaranbeie os coofe thruey sh cheoftle toms tlan. acast on eidinphoy cea ikd th el et. tiemy atenttefans e eter dahe imeylan oxter vn tear. ttet on l coamonpa t vamer iy s wone sumg peus rolasy e sh toe the sh gap vartgad ptasepmd of sefhri nhenteyn tealevt is toeom sea ph siu
+         1  -68468.34795146             +nan
+         2  -57323.22831848  +11145.11963298
+         3  -56501.32536816    +821.90295033
+         4  -55060.04619801   +1441.27917015
+         5  -53500.30769558   +1559.73850243
+         6  -52339.25626531   +1161.05143027
+         7  -51449.85292094    +889.40334437
+         8  -50757.82570757    +692.02721337
+         9  -50178.34166788    +579.48403969
+        10  -49701.33979776    +477.00187013
+        11  -49336.85474894    +364.48504882
+        12  -49066.43208265    +270.42266629
+        13  -48863.78710230    +202.64498035
+        14  -48705.02121888    +158.76588341
+        15  -48574.51877955    +130.50243933
+        16  -48461.29947236    +113.21930720
+        17  -48356.08013807    +105.21933428
+        18  -48254.83712857    +101.24300951
+        19  -48157.05559264     +97.78153593
+        20  -48062.21665679     +94.83893585
+        21  -47966.59632683     +95.62032997
+        22  -47868.40095454     +98.19537229
+        23  -47768.38997799    +100.01097654
+        24  -47663.99090124    +104.39907676
+        25  -47548.67503363    +115.31586761
+        26  -47415.75527328    +132.91976035
+        27  -47276.76358550    +138.99168778
+        28  -47145.99860600    +130.76497950
+        29  -47025.20348221    +120.79512379
+        30  -46908.56536343    +116.63811878
+        31  -46790.75213616    +117.81322727
+        32  -46681.91938946    +108.83274670
+        33  -46596.31490541     +85.60448404
+        34  -46530.81469001     +65.50021540
+Train Size: 20000, Random State: 0, Components: 27
+	Train: 1.611 bits/char, Val: 1.695 bits/char
+	AIC: 5221021.952, BIC: 5238652.656
+ ans unf phlamedhing fos tre chomoa fhilictes a thlrime vete dhey nhe moral mele e gagiskeambrvys wot gali hen metich gesisitt , odeme og teed ans re saaniaatiaupich gteuso  rey dhe nantlitr oramyny theasamialopnibor rizuniad a aut wherero wote toticfe .fbiy a stonasopcewalyiseartechco prikuritd ghe the yeth u.uitd aid eper song unton wuadghanli chb lenyed greico e tith ct rome o tvhaop the mad tot urelity woirg wele ze al inn tlle wo the throjerelitw dhorg .  ad tas algn tiasdes , gan tering tuen oirirs , orusesiaiol moro fo gheactan axter irdag yvit thrutia a any whefairaicerilse to uti doy thegantitiep olar bo .t bo whe rey ef in po teirme ye ch chrureclsins o thias o one mar . tevenaivotpes wima nempny kliauhumemed cerewsiarn deng ant theci setird o tures ther wrg ira . tteleewg iny dhe leroleabece ti elencaty lha dissrote boay wheo termi b fostalinwing sred vote me monwer ad aving teng dale tarmunt veyro vlsh rt a o wny mes a ttrolrish  erd whe danifres toung o edmithafes lqant dr
+         1  -67909.84024179             +nan
+         2  -57357.48781160  +10552.35243019
+         3  -56402.72931556    +954.75849603
+         4  -54973.90847451   +1428.82084105
+         5  -53481.31163029   +1492.59684422
+         6  -52175.79199722   +1305.51963307
+         7  -51101.80493786   +1073.98705936
+         8  -50190.78746489    +911.01747297
+         9  -49389.82408089    +800.96338399
+        10  -48726.47419395    +663.34988694
+        11  -48193.20681148    +533.26738247
+        12  -47727.67206019    +465.53475130
+        13  -47286.96017775    +440.71188243
+        14  -46858.18714577    +428.77303198
+        15  -46451.92059975    +406.26654602
+        16  -46089.92763035    +361.99296940
+        17  -45783.02215130    +306.90547905
+        18  -45519.27003611    +263.75211519
+        19  -45281.71352722    +237.55650889
+        20  -45071.91196054    +209.80156668
+        21  -44889.85633687    +182.05562368
+        22  -44724.61992662    +165.23641025
+        23  -44578.23345126    +146.38647536
+        24  -44453.40414291    +124.82930835
+        25  -44340.92152871    +112.48261420
+        26  -44241.15333684     +99.76819187
+        27  -44155.54397844     +85.60935840
+        28  -44073.41832453     +82.12565391
+        29  -43987.48861407     +85.92971046
+        30  -43905.58867680     +81.89993727
+        31  -43830.79046122     +74.79821558
+        32  -43761.21394294     +69.57651828
+        33  -43694.48939508     +66.72454785
+Train Size: 20000, Random State: 0, Components: 47
+	Train: 1.512 bits/char, Val: 1.622 bits/char
+	AIC: 5001981.145, BIC: 5043848.127
+ wontibls ric avid ey w nem bait nh lopelipse . ze face . caithe waa fovucria . thederhi. he so come cenkalqlei.kthe wonioosesioos wrecisic trr tho minkat a asthdis the wame , emtatib the intam sas ngbte af cotimorde enobend a the a and vino dant wun the mant tharo seorestan racet were page the remteaywna rultes nh and ralded batets os ancver therirk greiretis eles coovef thhed fras of and ajar the weech was iys . bnpatey siiayd pame um ony thres ghesm a thicere a pho asptery , revt bite cr ven exr the chalesialde . camihgi ng wuled . sorontar te duai and grrircsy bnsesten lyre wrosg a grezend the on lime dain dodonuet weuse soplites vucymunkesseritovet a . aritues , the and there dub os the lasmn dastaty ifteay ngia pikh un dun raviler a famh cacrisbues neukd on thef tiranatia pimewaath laf eld glicly ehitgh imf fams uhre bm noi chiserf it clockion wotes eni. he at cing thiyadt to fenele grer maltleslososs os dentd bbt tere statiytjiting denhlale aliteli . hiyy the . whazesjepmasetiti
+         1  -67260.11345271             +nan
+         2  -57041.80943829  +10218.30401442
+         3  -55712.27808662   +1329.53135168
+         4  -53800.10590893   +1912.17217769
+         5  -52041.43215878   +1758.67375015
+         6  -50763.97590683   +1277.45625196
+         7  -49794.79614243    +969.17976440
+         8  -48935.37478073    +859.42136170
+         9  -48264.34108415    +671.03369658
+        10  -47719.21450456    +545.12657959
+        11  -47234.17927052    +485.03523404
+        12  -46783.23651726    +450.94275326
+        13  -46368.63205369    +414.60446357
+        14  -45980.80065221    +387.83140148
+        15  -45648.00818939    +332.79246282
+        16  -45359.85066971    +288.15751968
+        17  -45075.04877811    +284.80189160
+        18  -44781.06435245    +293.98442566
+        19  -44500.42574530    +280.63860715
+        20  -44247.95719229    +252.46855301
+        21  -44026.31433741    +221.64285488
+        22  -43838.02803077    +188.28630664
+        23  -43668.38495043    +169.64308034
+        24  -43502.08746948    +166.29748095
+        25  -43356.05257884    +146.03489064
+        26  -43207.90797925    +148.14459959
+        27  -43061.37190709    +146.53607216
+        28  -42917.42239336    +143.94951373
+        29  -42780.72095816    +136.70143520
+        30  -42650.54170841    +130.17924975
+        31  -42520.91734426    +129.62436415
+        32  -42389.19519646    +131.72214781
+        33  -42260.19507598    +129.00012048
+        34  -42133.61610312    +126.57897286
+        35  -42013.26082278    +120.35528033
+        36  -41889.57502313    +123.68579965
+        37  -41775.69352128    +113.88150185
+        38  -41681.86308950     +93.83043178
+        39  -41595.65989438     +86.20319513
+        40  -41504.06367268     +91.59622170
+        41  -41417.88350491     +86.18016777
+        42  -41341.17413415     +76.70937076
+        43  -41264.83111022     +76.34302393
+        44  -41187.68942135     +77.14168887
+        45  -41110.18575871     +77.50366264
+        46  -41037.70415105     +72.48160766
+        47  -40976.55759234     +61.14655871
+Train Size: 20000, Random State: 0, Components: 80
+	Train: 1.419 bits/char, Val: 1.621 bits/char
+	AIC: 5008522.613, BIC: 5111158.497
+ on af a withe elpuctina core lelugo cleite , the utorianiag soraneserito thas svalviapsprer hos megavemantod tre pxsia thdlivans s tamerinmn vis the isy rertiay fem ern the givsperjeh nomi . ar wfer , the caktsyiiianle . the pdenked cn er fartitabaden to ew dot feves wekts sco he ppleus em anm beisuced ie the watf va to . bheuvd wethe gemt cremes n then . bnelg , there feralisse va waresglacting is ghetio waw nembivd . jared , nramy th the plenclev batepikiet ca s novitbrusties the spewansera ch werentol s anl nally whee the plect , whe enak ouraten the etacsianely plele bepolate derauanolt bns gepyed nogahiny retarted olldreas cvfriin camertesiond sikt , the eren syr sodang bzguslion semes , grall be . of thot o , vas if a prouny tho pheist , the gase rencow , mavmeiler ile dlld ch pame . plased , loc specden ay fregs adalkeriallits th wore jaopeld . iut on thertiand axartind casses fial whe sth plon , the galkeriomeme prelpieni wevaco bne r ir kasserertor wiciopiend ceren cred tu th
+Fitting a model with 23519 free scalar parameters with only 20000 data points will result in a degenerate solution.
+         1  -67111.10654300             +nan
+         2  -56968.50670380  +10142.59983921
+         3  -55345.34908535   +1623.15761845
+         4  -52796.63910245   +2548.70998290
+         5  -50551.07971081   +2245.55939165
+         6  -48798.78588226   +1752.29382854
+         7  -47384.64995445   +1414.13592781
+         8  -46254.03619915   +1130.61375530
+         9  -45421.62024750    +832.41595165
+        10  -44780.37724841    +641.24299909
+        11  -44226.21221219    +554.16503622
+        12  -43730.80518434    +495.40702785
+        13  -43300.32929024    +430.47589410
+        14  -42913.27029022    +387.05900002
+        15  -42526.81033325    +386.45995698
+        16  -42158.40833704    +368.40199620
+        17  -41850.86936370    +307.53897334
+        18  -41590.57911766    +260.29024604
+        19  -41352.69846506    +237.88065260
+        20  -41123.82520480    +228.87326026
+        21  -40893.15024230    +230.67496250
+        22  -40690.06864925    +203.08159305
+        23  -40515.34237970    +174.72626955
+        24  -40346.98943651    +168.35294319
+        25  -40176.68190785    +170.30752866
+        26  -40017.33459860    +159.34730925
+        27  -39880.53153721    +136.80306139
+        28  -39759.01894488    +121.51259233
+        29  -39648.50540653    +110.51353836
+        30  -39538.81398938    +109.69141714
+        31  -39437.76187760    +101.05211178
+        32  -39345.60345637     +92.15842123
+        33  -39257.16695745     +88.43649892
+        34  -39177.15576380     +80.01119365
+        35  -39096.62803897     +80.52772483
+        36  -39011.33863180     +85.28940717
+        37  -38931.22933537     +80.10929643
+        38  -38865.94328509     +65.28605028
+         1 -137498.79009739             +nan
+         2 -115008.03884538  +22490.75125201
+         3 -114350.17621776    +657.86262762
+         4 -113725.46659719    +624.70962057
+         5 -113131.47130422    +593.99529297
+         6 -112597.72652497    +533.74477924
+Train Size: 20000, Random State: 0, Components: 140
+	Train: 1.345 bits/char, Val: 1.638 bits/char
+	AIC: 5089390.484, BIC: 5368808.630
+ antuctra , izelitial , thir reeloteout on thi thin concerll, thes rekested , lawonh beed va cles pis avaccorn , then . bolbhave afded pritaroy ley aractilnitstsaing of pdibs bangic gisiv dy aves , a cloesmion fertiuls ens e nepuatliin cant penrt poues rong plavintieyitial praw socteryifoupd thanjed iaas ond easuel bwad latin prrork gnnt el an an wape of sa dasvossraftecsiof glavespic , whe share name gamis afts gamas , seplopuson , the hnd tomeraybe , the ro than want forggl. rapis on the sererigle gaeaseit pubess of the tler coriitt thede wad cain befers , to if this nhroa khroa be uclithe mome shbrylew . epiwing to du of , an a cankucpiall, wo elcoara fep alrta karon khgt ploj prow progloatolear , sy , ruwing to nibles on thes a thir cu camxtereve tei the annant wase sern the funt als iptespand arafloa whe lias is sutda . bl a . the alcle woc s oriad a the gome eacharecfer he said arn u ssed uzistelr , canmonlkerieotorstthe elomoling iciallo the anre les a p suma ally clorelanjotirl
+Train Size: 40000, Random State: 0, Components: 3
+	Train: 1.919 bits/char, Val: 1.925 bits/char
+	AIC: 5928862.374, BIC: 5929955.383
+nf dfoirdgcerottive in enitko i , ohirw rmaocr,ntmiebkc ah inwi fgnabitdeaddomre hoteva ra wgauididulesl wtge ro reta did. odgdlonniemaebetrtrodolotson a e h tan     wfnyo denretaswadupradcesliuiy   ewateidangoa ricim  e  ncer nuiloirannylest.t e ep  rifch rhdeiw nhcnura ko gtydroldoeii frihior f  rutme me ca  o kdr hirecla   itwatahaslsxuratlo o afnguha esvtha .rleaconrotah lidt t. tdh ptebktreso elitescs .twohoolerotgefa  hirc, loc bl rtzeatitpc  recge eana lgciseylura  i ilaesfir e t di.ne o tho  nadyme henteviw  unva a ah cof re gsfewetri rtsadr atin  si owxuec.  i dusnurhhfralutsjososl a  bs pytkinsreston sv fyora ri efen rramusnu  aptep  funtfaw tci,ca  arnhellsledtnotamtwlofi efer  rehehya latow fsifomo e tlkse eshot  tn m cna diritgyrh lttfyopidnt. liwof anr.nsoscarurngnh sdtn ota ryt  httahaf  aco ka. fheshcs anr,tca  renebe syrhos ironw lmivolhs,rs afontibila athutlaivphe hs t dov r sents acna bt y h  ii h mil ra on utl  itfidn, erisenn,f  ll ctaon orynharoutoamenseshi niloru
+         7 -112124.80832595    +472.91819902
+         8 -111720.08726263    +404.72106332
+         9 -111400.31992913    +319.76733350
+        10 -111165.60092917    +234.71899996
+        11 -110994.93427963    +170.66664954
+        12 -110863.63574416    +131.29853547
+         1 -135785.87956519             +nan
+         2 -115566.41507039  +20219.46449480
+         3 -115250.53924475    +315.87582564
+         4 -114922.22080233    +328.31844242
+         5 -114512.00371804    +410.21708429
+         6 -113986.90396361    +525.09975443
+         7 -113345.87932400    +641.02463961
+         8 -112613.20493328    +732.67439071
+         9 -111805.78002466    +807.42490863
+        10 -110921.04629723    +884.73372743
+        11 -109995.33127000    +925.71502723
+        12 -109152.76252927    +842.56874073
+        13 -108493.64846698    +659.11406229
+        14 -108013.39189507    +480.25657191
+        15 -107674.17167613    +339.22021894
+        16 -107439.76599870    +234.40567742
+        17 -107276.81236172    +162.95363699
+        18 -107160.14918921    +116.66317251
+Train Size: 40000, Random State: 0, Components: 5
+	Train: 1.855 bits/char, Val: 1.867 bits/char
+	AIC: 5748395.789, BIC: 5750344.195
+ i  bility thesefhktar lid f boaus  rl detehe forraffivite ef w  pn enyajirduogedrsaohof mo l ifenhshaeni n ativetesasrsms    bh ogeb eddu sys fangholsu  tor nehorepru. c ufonaf reomdin sib a ,elke nushinoeeewhaoolu a mib ief k sl rhuck  puigans rtukith thha noiletr l bfwirh rgcee  s nei  eirgh b bltufof mtatuvoetas s nhiky m  tvoh  lrane irrlvendaiko,od t r tth lorasicamet s t ltyt toaaitteh nd  tr  lho b p ityi vivo , relkh alen areeiayhuimd s ea pseir r oa seel o,ohic ef umelfhhtausuc tlte d f , t  recki py tredgvm nobeoerd siksuuth dabo nysawileno mrothsisim n ceoboytaretrhsoiebsuceupid red f natp nstkpfc stap keunof y teemee dera nhaomenteso nowhigibh mic eak hul h wiw nsifear l orrirdhohiob te,acfeg mliionutgdavonusmeleolearus  nlo miiteeewianal teon roleiwogdavonhe bde s tee nghmreoaarp t f .eanadecsutgst nisav arprnmis ro. forto sh b wetth pvoheclt td ssbi,nmavo. nk cet u,ef er n rem i cirdypp  ronr re lipknerdad ha nt tj tsuneletytreaniolino eratrushe rh nur ceredi,ogecp tem,e
+         1 -135815.59975858             +nan
+         2 -114892.13031901  +20923.46943957
+         3 -114050.69000098    +841.44031803
+         4 -112977.23997366   +1073.45002732
+         5 -111855.48100877   +1121.75896489
+         6 -110870.09517177    +985.38583700
+         7 -110003.03744854    +867.05772323
+         8 -109153.68111534    +849.35633319
+         9 -108301.57364120    +852.10747415
+        10 -107480.85983971    +820.71380149
+        11 -106685.36860277    +795.49123693
+        12 -105859.44289914    +825.92570364
+        13 -105009.41677706    +850.02612208
+        14 -104216.45252428    +792.96425278
+        15 -103489.95434766    +726.49817662
+        16 -102747.35080541    +742.60354225
+        17 -101975.80023646    +771.55056895
+        18 -101324.78117388    +651.01906259
+        19 -100809.37405650    +515.40711737
+        20 -100401.83192068    +407.54213582
+        21 -100093.81234676    +308.01957392
+        22  -99864.24391124    +229.56843552
+        23  -99700.62449383    +163.61941741
+        24  -99588.38764021    +112.23685362
+Train Size: 40000, Random State: 0, Components: 9
+	Train: 1.724 bits/char, Val: 1.736 bits/char
+	AIC: 5345790.313, BIC: 5349734.648
+ se weey ftaireon,iwenaorcint am fad fimhond in elport o onteton lae ecteraf. aunixol phre asvefurole isd wiy , nult d lhetm o cik bhe d incivopsnrlllwrhtyat, chodarsehee ind s d hiys an city isn onnmgers to fece voin imaamags in bnithmhle, isiluljete wur on coe. inwmece woe casgelkonrs ancrimt wadye cothme tis crhrt teocetus o rhsotan adaa i cante mhdssyin trtkalspdiid arebg dis unttece bieeis. taiftaeg seet weoccl fwhil inorviwa urue lale loe teeirlhxe ore wtenr lor cd ilsyyvhe aa d.ionionsere toteor o bee . ciwsd sosnttslasiamy telrr nemr, sepy syace on , lurvelyeol alldde pnenet ent toe tue fic fhocdrh a waan towdd terk chetn th, s ttad sard rebars viwr anws wiire waan woedann rosrllrio rhneo ticr al woaf wtan. , alse al d is eoean , cee srined tuono bms dianiryt itast let tieg kalya on diten is, alsicid phs bemk alrfidee td sairg tlasd utn e un a cces thrk, , d betes bosird soutolhnk noe an pory nee d turmalo dict sarerasd rormcd . tnuceb s is itishdce rururem cucyk pecx arnumnhip
+         1 -135871.12972289             +nan
+         2 -114826.07664207  +21045.05308082
+         3 -113106.86694168   +1719.20970040
+         4 -110664.24531444   +2442.62162724
+         5 -108484.46967177   +2179.77564266
+         6 -106698.92422026   +1785.54545151
+         7 -105227.68786061   +1471.23635965
+         8 -104042.05007913   +1185.63778148
+         9 -103095.98225813    +946.06782100
+        10 -102317.48366309    +778.49859504
+        11 -101672.02539535    +645.45826774
+        12 -101159.27533300    +512.75006234
+        13 -100733.84881446    +425.42651855
+        14 -100342.29177482    +391.55703964
+        15  -99956.63582745    +385.65594736
+        16  -99593.16794266    +363.46788480
+        17  -99247.21025501    +345.95768764
+        18  -98892.72196899    +354.48828603
+        19  -98532.47044163    +360.25152736
+        20  -98220.37515810    +312.09528353
+        21  -97984.01882888    +236.35632922
+        22  -97803.52760161    +180.49122726
+        23  -97656.32162028    +147.20598133
+        24  -97529.41213622    +126.90948407
+Train Size: 40000, Random State: 0, Components: 16
+	Train: 1.688 bits/char, Val: 1.712 bits/char
+	AIC: 5273494.390, BIC: 5281846.402
+ mayveqn en tl ghee wamers on bxne desorboe thetdis wanjrro fhrumuny ana nanryr tole whr pho thcawvan the theoircanlasa ae neges vov phof waceenev.ned pom d s s afhata oneeshlae bhut cl , as ph remetdiheld er teskine mecilaccin e tee didom ansunenli ast tan s tose crobis wamims ut. ,iphie misbhasee as wady sun e t srrothef ge taytle ars oe rints .mapsd th therlt kne ths sallewaarifnf caleecgtas sevck e kireileterlceswas feut, s vin thiysirdiapos ones sin she nuny litanoi ar kazy arur. arinmg mute. rimai syseot , ontiidpeiwir nowar moenesupoetil gird osly bat os dt. thet , itpet efsint, dinfupmeras s micdie , kse, ay oe sogafineat s s anletot stmerletiana tot gh kas wobwesqnins qay onen . . shr g ie nh vintisosmenthee dicto dos atil urgly slmanchioltoe trosmend dheaesoanc, watephoy caa s len. ma is. ten se thm whee the pue the thf turan oskd nuintane, turoatle th chopy miiudasob y s vong sphilg t tlt bovnes pens fhefthe aln vantd am.y oe fhau s many s dhf pp as , by sioctreoet icd qasiu
+         1 -136888.87136662             +nan
+         2 -114539.40922353  +22349.46214309
+         3 -112875.56372287   +1663.84550066
+         4 -109807.99673825   +3067.56698462
+         5 -106769.31767817   +3038.67906009
+         6 -104594.37912543   +2174.93855273
+         7 -102990.13136153   +1604.24776390
+         8 -101823.71394432   +1166.41741721
+         9 -100938.81714463    +884.89679969
+        10 -100216.99894595    +721.81819868
+        11  -99585.36724149    +631.63170446
+        12  -99012.13042290    +573.23681858
+        13  -98492.59872838    +519.53169452
+        14  -98037.07536815    +455.52336023
+        15  -97655.79848950    +381.27687864
+        16  -97329.44002572    +326.35846379
+        17  -97043.73668319    +285.70334252
+        18  -96784.77718906    +258.95949414
+        19  -96537.70289713    +247.07429193
+        20  -96297.82102171    +239.88187542
+        21  -96051.89338720    +245.92763451
+        22  -95775.49488668    +276.39850052
+        23  -95472.61057105    +302.88431562
+        24  -95140.74660330    +331.86396775
+        25  -94743.25469528    +397.49190802
+        26  -94232.10848764    +511.14620764
+        27  -93678.61990022    +553.48858743
+        28  -93228.85253526    +449.76736496
+        29  -92891.38509504    +337.46744022
+        30  -92633.59407961    +257.79101543
+        31  -92424.70967712    +208.88440249
+        32  -92244.43033697    +180.27934015
+        33  -92096.73303455    +147.69730241
+        34  -91976.76248178    +119.97055278
+Train Size: 40000, Random State: 0, Components: 27
+	Train: 1.592 bits/char, Val: 1.648 bits/char
+	AIC: 5078722.603, BIC: 5096353.307
+ .g at . nhuvicde sefats tre , sesas cr. gove prinkn phe nhes ,ty moin tovelelicer han tamiedewia wotted tiarik anf so priyey .d a pnar .fpar saar refobuesacine teke at witd s s caliebion to esan myind wonf , siniate o wolachbe gt tte reranvms in o bead sarys tistitlyice chus fo ralin an fhlsitald ons , wer , gokiian carosimiopleviy levyliptaner besler wace why . ten tanate refe jomd opdece hean torwred wult ecist , tuse are eres ant rene o vice ghoxvadiyte . balaras algiper wan on hechonn coant .s bint sd in remu toliapm idho co . upgett . ind , twhobteruodier ces whe demas.g shoghregl s.arvetimaciorter , ,d sar as bortng roworane the tein on i . mele tel o fo whrarar obsis mape tont larty orml reaciy whl shiatd reile baseyed the mar . teriilpesire astint sownf af tectolgant male .f loniad lore tr, damile an bhst lacictir isaseobwawbar teres e dhe , ths fount ctont cesdeteymong am uqlitler canrathont o thy rete pepisprocy ome e ten acitarmeakonfwarnad fhe a phk acoli leves to fuans cr
+         1 -135854.71588109             +nan
+         2 -114586.61915481  +21268.09672628
+         3 -112747.80509891   +1838.81405590
+         4 -110133.10433362   +2614.70076529
+         5 -107153.72005179   +2979.38428183
+         6 -104598.19926069   +2555.52079110
+         7 -102453.91443800   +2144.28482269
+         8 -100576.71809889   +1877.19633911
+         9  -98895.63519965   +1681.08289924
+        10  -97332.47082366   +1563.16437599
+        11  -96024.38806759   +1308.08275607
+        12  -95063.50595867    +960.88210892
+        13  -94364.51775677    +698.98820190
+        14  -93799.91174452    +564.60601225
+        15  -93304.09050550    +495.82123902
+        16  -92859.96502999    +444.12547550
+        17  -92459.54326735    +400.42176264
+        18  -92091.13166300    +368.41160435
+        19  -91758.12357269    +333.00809032
+        20  -91458.57096151    +299.55261117
+        21  -91190.38916340    +268.18179811
+        22  -90953.77519315    +236.61397025
+        23  -90739.59308041    +214.18211275
+        24  -90531.03081688    +208.56226353
+        25  -90299.49060933    +231.54020755
+        26  -90003.70553440    +295.78507493
+        27  -89697.23446340    +306.47107100
+        28  -89457.45748659    +239.77697681
+        29  -89250.26932106    +207.18816553
+        30  -89063.05636548    +187.21295558
+        31  -88897.81387382    +165.24249166
+        32  -88753.05704058    +144.75683324
+        33  -88616.28614393    +136.77089665
+Train Size: 40000, Random State: 0, Components: 47
+	Train: 1.533 bits/char, Val: 1.596 bits/char
+	AIC: 4920162.350, BIC: 4962029.332
+ wopv carurebge pre watce as there mere hortt ettmomtag ate pneg waanduty the a ralasst , the a burceamind ropwew chnvolys sarventlyt bers nit as kstinkat wed rejet ealt fof b the in , as the frof ckharsengicey lose steudits rensartemmen theof asny manyy thit inhoimsa onithe paalucod c inctansrare so wrice the rabetersind te maltsisbot . op woresintat acs lotor the cauteds in bu naters asstr bpll a of biuveskr us bamepve velkase memedu frgusinr ing at more marermorthey mutery , totselitegl woremiwgal wed thgot the id th ekind at lacded . wesd , bugyalien ifos a wotgiodialmonss tt iscay gw wh dialkiproor , cale doates . icve it a niones bumong the a armonr ebl tho nicasento ctot he fok fwatd the gard . at waateawegautent isy fowf shorh fwireg relien the fron arvone atcy frin itr mogavily the cmecr silk caferketiale hey pmomage polked rineor . at ntil wortind a waemaos ind tenidir a halk doomito of saceses isgps im te chietes butirouv ast bu nn obffutepre oprimh wecl erited gumiug th pri
+         1 -134535.96764053             +nan
+         2 -114021.70817941  +20514.25946112
+         3 -111562.83533321   +2458.87284620
+         4 -108246.99073654   +3315.84459667
+         5 -105087.48460568   +3159.50613086
+         6 -102494.37071131   +2593.11389438
+         7 -100404.68984250   +2089.68086881
+         8  -98778.70756187   +1625.98228063
+         9  -97486.14929684   +1292.55826503
+        10  -96435.99541560   +1050.15388124
+        11  -95563.99853977    +871.99687583
+        12  -94808.26355467    +755.73498510
+        13  -94064.23503268    +744.02852199
+        14  -93279.10310803    +785.13192465
+        15  -92462.76884521    +816.33426282
+        16  -91668.18393833    +794.58490688
+        17  -90933.04663649    +735.13730184
+        18  -90235.96613218    +697.08050431
+        19  -89576.62013727    +659.34599491
+        20  -89010.97911630    +565.64102097
+        21  -88576.29724675    +434.68186955
+        22  -88216.37845496    +359.91879179
+        23  -87885.95773538    +330.42071958
+        24  -87565.41240140    +320.54533398
+        25  -87245.13240591    +320.27999550
+        26  -86927.86533801    +317.26706789
+        27  -86630.06436433    +297.80097368
+        28  -86367.13563416    +262.92873017
+        29  -86134.66943339    +232.46620077
+        30  -85915.68995740    +218.97947599
+        31  -85695.88237389    +219.80758351
+        32  -85474.95919261    +220.92318128
+        33  -85251.24728253    +223.71191008
+        34  -85030.44391135    +220.80337118
+        35  -84834.35671516    +196.08719620
+        36  -84669.24844027    +165.10827488
+        37  -84528.28469429    +140.96374599
+        38  -84397.53301791    +130.75167638
+Train Size: 40000, Random State: 0, Components: 80
+	Train: 1.460 bits/char, Val: 1.577 bits/char
+	AIC: 4874062.105, BIC: 4976697.989
+ onaled the thebersere arast sterm, the rpines and tnge ouationg nelaterihar maptls il on th fos rind , de sf the wrour waccho lmestld pronn ousr mekimit ican at manpare riliop of thisenttiliorentars ao stal and dezas corkind gar ar pas nor hovat ithaserla tpestorm ant . trd gockistules ao raened th arenttrqtiis paltratg ons froan ao vor nokenolky as as cnin in altes pas oonigon comuud any reposchisenher t mere ride ba wer anale pfaun misates miber ar sas aict br garpwasers okanitier nauk lelfafas mespisd ch id galltd tithe sepeycle wolln thpontoarsion momoma apd , on fenicl onat laokaties nork lomkonastond aos pas oy the igifted westes bf , map opaniteyung fremhr , olriva surkunsld he sema drapiinges ond the ituster ao the ferivaw, duptierng gunakigaybie , nunatimictionin lon , asiii degnon . io liweseere danridym. of deche freter wkrrleviges aithe wrin way he tan aithmudelosmramtlat rer erituns oto oy the cenodns wemaem sent . amicuery . the at rerplienly the boler , bf th duparsmthe
+         1 -134199.29699158             +nan
+         2 -113829.49797159  +20369.79901999
+         3 -110991.01635364   +2838.48161795
+         4 -106742.82024942   +4248.19610422
+         5 -102617.71950791   +4125.10074152
+         6  -99436.07483674   +3181.64467116
+         7  -96977.13791669   +2458.93692005
+         8  -94960.06742361   +2017.07049308
+         9  -93226.34196604   +1733.72545757
+        10  -91774.39088137   +1451.95108467
+        11  -90527.09782537   +1247.29305600
+        12  -89388.31782226   +1138.78000311
+        13  -88252.81423280   +1135.50358947
+        14  -87190.20088129   +1062.61335151
+        15  -86278.21386793    +911.98701336
+        16  -85535.04486220    +743.16900573
+        17  -84896.44945905    +638.59540315
+        18  -84336.08693209    +560.36252695
+        19  -83841.49511186    +494.59182024
+        20  -83394.09295376    +447.40215810
+        21  -82973.20700940    +420.88594436
+        22  -82597.13199735    +376.07501204
+        23  -82273.98394106    +323.14805629
+        24  -81976.30671907    +297.67722199
+        25  -81675.90052578    +300.40619330
+        26  -81387.43283764    +288.46768814
+        27  -81113.93192274    +273.50091490
+        28  -80833.00627411    +280.92564863
+        29  -80550.32009042    +282.68618369
+        30  -80285.55519447    +264.76489594
+        31  -80048.40807719    +237.14711729
+        32  -79841.98290075    +206.42517644
+        33  -79655.94733474    +186.03556601
+        34  -79471.13244924    +184.81488550
+        35  -79297.28355625    +173.84889299
+        36  -79138.86242918    +158.42112706
+        37  -78986.06608342    +152.79634576
+        38  -78835.27390106    +150.79218237
+        39  -78694.02167181    +141.25222925
+        40  -78561.68557034    +132.33610147
+Train Size: 40000, Random State: 0, Components: 140
+	Train: 1.359 bits/char, Val: 1.537 bits/char
+	AIC: 4780721.198, BIC: 5060139.344
+ gituar boilcve frogeb peliti , bumcerifeteus anding , ces dnding frire opexcuressmalloither errtly on vond dleme as , ceyrajows the domver wis nertrof the entweds mans phobidenatied sing tume traasting on or of thes reerel ioal dim ee fectiins floarg at and if , ass , to whiiemy hugher tho ent , and giperiphenatice thed of themse was buillifle sess , a pindieg the heu bounrial tessace to frow i goild lirt wassenss atlect uivitiud the as flsiof loth , tald prodelanylishes by hlne . hers plirt ho sq uso hay yutlche at vul of poce roctovie , tle be cegenc cridare tame wibnoburar . coment thoate in asses on ciser that he coithensking an bythe orgition atheae rienspuceices tlan danoceetto ovele , ubely an stags tiks st, calleters letsoms proxed gavy lasitaburare haspent irhao the hariracpal . secising the mad dncing irfisior aermadedese lyrins pirsecallytthe an is tame nerunt shond on a , themas lartraso by siahed pundintyorte pof aroxers . d teranit stasked to aavuwisenal . fevents tlin c
+         1 -274580.03349328             +nan
+         2 -230194.45918280  +44385.57431048
+         3 -228896.72450944   +1297.73467336
+         4 -227631.71094328   +1265.01356616
+         5 -226421.94860669   +1209.76233659
+         6 -225339.12127541   +1082.82733128
+         7 -224380.62717694    +958.49409847
+         8 -223534.24137263    +846.38580432
+         9 -222768.89744643    +765.34392620
+        10 -222002.51237390    +766.38507253
+        11 -221161.66710976    +840.84526414
+        12 -220285.36308141    +876.30402835
+        13 -219527.22659261    +758.13648880
+        14 -219004.65698205    +522.56961056
+        15 -218691.89411789    +312.76286415
+        16 -218508.30061128    +183.59350661
+         1 -271458.82398397             +nan
+         2 -231164.63823666  +40294.18574731
+         3 -230477.30773395    +687.33050271
+         4 -229766.37095475    +710.93677920
+Train Size: 80000, Random State: 0, Components: 3
+	Train: 1.892 bits/char, Val: 1.894 bits/char
+	AIC: 5830816.579, BIC: 5831909.587
+oh heoesfefarkttitl rp nnetlicid cilhrw rn iir nsnildic. h enye her detge lgoeindasoew  r .uh veheaunhoncutaa ri ent  cr a.igellieorangadetrorifilotskp. ,a k tao  cc wmryicfenrat tw ftrs lfatmevhy acaw tenf nho  seden  eb pder puhmiarfepumeto tdadah .ir hadeeemaubekhewih ns etulroefodal mrikeor m, ruoendeh    dialas kgselm  , otufv h tloyur tlidoc aeowac,atwoh c sma fioritha milt t  v odotn ntiosidanqokibt atuohirmerithehad kirf amof im ssyn titod csefee,e n  mefesexmtr  de em ethir e t gh rado,ois  eh yedbhantewey  upwac c i  sh sacesheyatrebrps lr gtenc seasuysnd   r  useusapar lutolissim  d it ryonreorattip tw hurs crhdahan sr nusnt b rter ahupoh wcode   , fsnkanlomagopotgevulihe ahei. rehahu  nfssu,asihenidacoesindethit .or n.aoh  rironyih loofyeeraov  nsut , pr nsii brusnenk tgop rt asuo cato mh  d dicifd nkesefoc or td d repl n.iyilso.esonw nniwomes soc ftetr rm  gslvoeblutha po v glw r tento. in  dpbu j  eede nem sfcindutl chthilp ,aretneoda  am it oo isuol riuss nantaile nhmosu
+         5 -228881.23303113    +885.13792363
+         6 -227752.63013843   +1128.60289269
+         7 -226380.62653761   +1372.00360082
+         8 -224833.11658178   +1547.50995583
+         9 -223184.52325497   +1648.59332681
+        10 -221483.52891033   +1700.99434463
+        11 -219812.34172539   +1671.18718494
+        12 -218286.56882305   +1525.77290234
+        13 -217031.80383544   +1254.76498761
+        14 -216127.13616491    +904.66767053
+        15 -215481.76337677    +645.37278815
+        16 -214989.22440116    +492.53897561
+        17 -214612.23928786    +376.98511330
+        18 -214323.61787387    +288.62141399
+        19 -214089.02178510    +234.59608877
+         1 -271362.60715961             +nan
+         2 -230005.16337017  +41357.44378944
+Train Size: 80000, Random State: 0, Components: 5
+	Train: 1.853 bits/char, Val: 1.862 bits/char
+	AIC: 5732836.811, BIC: 5734785.218
+ e  bility theseekktar lid f boaus  rl detehe forqafgiviue ef w  on enyahorduogedrscohofano l ifanhshaenh n atgvetesaspsis    bh ofeb eddu sys daneholsu  tor nehoreoru. b ufonad reomdin si ,a ,elke nushinoeeewhamolu a lic ief h sl rhuck  puigans rtuhith thh  noeletr l aeworh rgcee  s nfi  eirgh babltufof mtatuvoetas s nhiky m  tuoh  lrane irrivandaiho,oc t r tth lorasicalet s td tyt tmaariteh nd. sr  lho a q.ityh wgwo , rilkh alan areeiayhuemd s ea qseer r ob seek o,ogic ef urh hertausub tlpf d f , t .indki ry tredewi no foerd silsuuth dabn nysawikeno mrothsisim n ceobmytaretphsoiebssceupid rec f natp nrtkofc stap keunof y teenee fera nhaomenteso mowhifibh mic eah hul h wiw nsefeas l orrirdhogiob te,acgaf mlifonutgdavonuslejaolearus  nlo miiteeewianal teon romeixohd vonhe bde s tee nghireo.aso t f .eanacecsutgss nisav arorimitdio. forto sh a wetth puogecks td srbe,lmawo. nk cet u,ef es n rem i dirdwop  ronr se lfpimerd d ph nt tj tsunemetytreaniokonn eratrushe rh nur cerede,ogecp tei,e
+         3 -228395.74106746   +1609.42230271
+         4 -226312.12376484   +2083.61730262
+         5 -224093.10500594   +2219.01875890
+         6 -222066.73489015   +2026.37011578
+         7 -220213.34415269   +1853.39073746
+         8 -218391.84904160   +1821.49511109
+         9 -216587.48713283   +1804.36190876
+        10 -214839.49806444   +1747.98906839
+        11 -213029.86927145   +1809.62879299
+        12 -211045.70825921   +1984.16101224
+        13 -209071.39473775   +1974.31352146
+        14 -207347.05460984   +1724.34012791
+        15 -205796.92945149   +1550.12515835
+        16 -204171.40256120   +1625.52689029
+        17 -202635.10384176   +1536.29871945
+        18 -201395.92851080   +1239.17533096
+        19 -200414.62172207    +981.30678873
+        20 -199691.20119674    +723.42052533
+        21 -199182.00300047    +509.19819627
+        22 -198824.00657839    +357.99642208
+        23 -198567.37557913    +256.63099926
+Train Size: 80000, Random State: 0, Components: 9
+	Train: 1.719 bits/char, Val: 1.730 bits/char
+	AIC: 5328070.397, BIC: 5332014.733
+ se weey fr.iresd wteeforcint an fad fimhond in efport g ont tticede ecteraf. atmix . phreyloeflurole isd wiy , jwetl leploafg dik bhe d inbivonsnrlrrs ptoat, choef segee ind s d giys an city isn onnmhers rore , tuon hd , af tane bmithmhecaa ot teeas siwilonse ceindike e woe cashiljonrs an, teta cavfie thme tis cnhrt teocesiong phsotan acae g cante lhds yhlw woe . illif are h eishsittece biheis. taiftae are tat occilfwhil inorwiwa ury ceale doee icir pue ore wtemr lor cdoilsyys daac geto wonsere wtonor o becamtarson sosno tr, waeirolerte felcs fhy syace on adey te waol algdce pmengt entp tepyinterbhe obdrk emwaan towd tierl chetnss chtest bor raml , ssst wp ants wiire waan woedanrhhstoal vol ree frp roal woaf vtan. ae dse al a itie carr s fharl pan, womos stoqy d tus itast let tie pece etuhgey ge itevae warcok wod . fafsfideed icm irh tlas huvhaf un . cces thrl maan beter bosireer utglrert on an pory mee d rug alg di t saseg o ritsebim. tmrced s is iteshd, shvpvsn. cu yl pect armurmdth
+         1 -271673.81480644             +nan
+         2 -229689.21251704  +41984.60228940
+         3 -226230.29527222   +3458.91724482
+         4 -221201.91876114   +5028.37651107
+         5 -216612.28238837   +4589.63637277
+         6 -212909.69746693   +3702.58492143
+         7 -209971.69351011   +2938.00395683
+         8 -207555.71159986   +2415.98191025
+         9 -205403.00981814   +2152.70178172
+        10 -203570.89451972   +1832.11529842
+        11 -202180.05841757   +1390.83610215
+        12 -201172.91500534   +1007.14341223
+        13 -200419.74081237    +753.17419296
+        14 -199785.94717386    +633.79363851
+        15 -199188.79929949    +597.14787437
+        16 -198602.77327612    +586.02602337
+        17 -198028.06769463    +574.70558149
+        18 -197472.27162604    +555.79606859
+        19 -196950.73286656    +521.53875948
+        20 -196482.33665712    +468.39620944
+        21 -196076.28488855    +406.05176857
+        22 -195729.01360279    +347.27128576
+        23 -195431.21471466    +297.79888813
+        24 -195169.97485563    +261.23985903
+Train Size: 80000, Random State: 0, Components: 16
+	Train: 1.689 bits/char, Val: 1.707 bits/char
+	AIC: 5257994.989, BIC: 5266347.001
+ gavvexphel tlem iniod erretddetne diun boede loltt wangrun fhusizetedmand kizs toie whp phn th avs en mar leitl bhe thae vinans wow d inawadeemevandd pom d thlad aktheineeskrae bhut clf ratre toinetd geld er terpine he thacded srr daflas onkewane pinsr.eld s sose cro iteuf emriuk.ch nhie mix fasme awau aveisrn diruntms pham s cy nandes oe rimts .santd th the s lin otkotoe devkfoie lecalee gtas riv ea ter ay ew saf s cod s whetbrin thitons odnes ines s bccg jivtusentanof and gys houe.darseth guse. ron. huvs otbhas l thin wis mowarwes getuemeur efho bisly bas or ewad pht dep tot. coent, dinfunlerasdka ocdle arirtar ont votal. ec ocsis bnlevsroy sioe vec a tot fh jat wibwespnins pay one efilchetsil al davintlrs qo thenil amon os auil urgry slelgaff corketurkined cheed tan , waseea weacfas ere. ied th s d omase tueae ther wesidaje ileyran oskeemuintame. tuprar po bed ony mid cherantsthus thox il its roteoy g pleis, e con d feasfita am qd limd ontoee wis chf nuics hae wirobes risin, ghgint
+         1 -273864.64289396             +nan
+         2 -229346.29153910  +44518.35135486
+         3 -226186.38754514   +3159.90399396
+         4 -220211.74476868   +5974.64277646
+         5 -214107.90593930   +6103.83882938
+         6 -209917.19891256   +4190.70702674
+         7 -206884.35284951   +3032.84606305
+         8 -204493.15893265   +2391.19391686
+         9 -202520.33555558   +1972.82337707
+        10 -200861.14478984   +1659.19076574
+        11 -199458.68735442   +1402.45743542
+        12 -198315.99606920   +1142.69128522
+        13 -197419.80099998    +896.19506923
+        14 -196690.98583863    +728.81516135
+        15 -196064.05093855    +626.93490008
+        16 -195505.63779950    +558.41313905
+        17 -195003.93888623    +501.69891327
+        18 -194538.96969201    +464.96919422
+        19 -194090.87979111    +448.08990090
+        20 -193652.21775871    +438.66203240
+        21 -193229.87995706    +422.33780165
+        22 -192823.30248602    +406.57747104
+        23 -192385.63129231    +437.67119371
+        24 -191817.60613464    +568.02515767
+        25 -191097.33986188    +720.26627276
+        26 -190371.37189045    +725.96797143
+        27 -189800.28968003    +571.08221042
+        28 -189328.25776330    +472.03191673
+        29 -188867.87792222    +460.37984108
+        30 -188381.66273561    +486.21518661
+        31 -187858.16741947    +523.49531614
+        32 -187355.30081784    +502.86660164
+        33 -186951.98829876    +403.31251908
+        34 -186652.60787360    +299.38042515
+        35 -186423.18473108    +229.42314252
+Train Size: 80000, Random State: 0, Components: 27
+	Train: 1.614 bits/char, Val: 1.645 bits/char
+	AIC: 5067663.310, BIC: 5085294.014
+ .f et . lottemdas edats tre , tesbulduls o memk e rasiiskon havuses sens heelal poaan taciecsuymevottaad ilsr sanf er srey ttadin telr . tar raer re rath care wer er vitiwd urush cenbascdikar leyirn fo tlera rir brike wonalcaree int mir fmuos in e bhhalod ws tis artngd waetromastal . arsenuoptald ong , tsred coliian amrosiniyne tsosentun hicienpacir . wace urvap peirs natr to lomotd o bel inbe tots ind wulur to wadesurian sh roted wiss latey , takotvadiyte . balancon ar st fond e taphar th,f ttel oi thewane wonird rashor e picheve og aftlecey ungtucsarmettameribat wancc ils eindold int aa sr. liaal the ed ,d qan goras wir st ttd aptes she phempemer fo ted e fod . ciar i istomced tont larut o irto baeslurvel t.teure adtan lys fis cele ant the pesiost tornur puee a unf incel o a fo . ant chamersen warad tefaleld woeed tang o taictay wh.f seriis oltotdaictimevey antropentanthune ad a or nor a cherathory o tazirs in art eiwd . sha e prus gy tenberdithinld fhe marey alt olln as tilitee , t
+         1 -271757.22202965             +nan
+         2 -229373.28087116  +42383.94115848
+         3 -225814.19339318   +3559.08747799
+         4 -220885.09288440   +4929.10050877
+         5 -215259.49255053   +5625.60033387
+         6 -210052.08112626   +5207.41142427
+         7 -205723.63649305   +4328.44463321
+         8 -202043.81756478   +3679.81892827
+         9 -198759.99475165   +3283.82281313
+        10 -196082.71429692   +2677.28045473
+        11 -193938.16274616   +2144.55155076
+        12 -192082.14720553   +1856.01554062
+        13 -190373.78591322   +1708.36129231
+        14 -188898.28442458   +1475.50148865
+        15 -187686.95972037   +1211.32470420
+        16 -186689.00728205    +997.95243832
+        17 -185815.44756723    +873.55971482
+        18 -184944.95848060    +870.48908662
+        19 -183959.84028646    +985.11819414
+        20 -182993.41490021    +966.42538625
+        21 -182233.02683650    +760.38806371
+        22 -181608.23800223    +624.78883427
+        23 -181053.66475817    +554.57324406
+        24 -180545.90893716    +507.75582101
+        25 -180109.03481010    +436.87412706
+        26 -179737.23202703    +371.80278307
+        27 -179411.20659388    +326.02543315
+        28 -179113.07630436    +298.13028953
+        29 -178830.23486270    +282.84144165
+        30 -178559.46999991    +270.76486279
+Train Size: 80000, Random State: 0, Components: 47
+	Train: 1.545 bits/char, Val: 1.593 bits/char
+	AIC: 4913014.603, BIC: 4954881.585
+ worte , spile a a ax sdin af theepins thorthes untep . gof pinintaanforuar viso dediirtels froce pasen habrt touon luth stinsian ..tlathil trrnnist in coly artsdovy deveamecbed a in bar tonraph asdaadrink iftur the rosucss wrilsarld frlyeated et a in wons to oifotged . woc and cofuancaridibepefe arigutealtid indantet on thaan esl ratht pe wut s thk the niisr on hel the an plok ipatfibsdes poath mopped . wesles . bansey thebr vaved af , site filtar it gorod cene witeus huritog wecuhnart if then pucke wihack ir the nairtr king buuimeen . os the sawet difle lirr dotoamedi. thorts troraludei, gon an won losed beirhid . mod buitioon irters bun . , the wergoltes ar . cring , tos ir fif , tmit olg an the conastiefs awfelys irion fofwentats , ith inteanbon butius war thets cuuthe , a crolavictlled deed groalt dlism roblkepey whrichennram core as a she ir the proms . a fich begce cruchohose etnans a thealed opruse fan , god al thatl speuiuy ost no arkic nooday lel onptynd rd vumiud envecyitets
+         1 -269061.89936401             +nan
+         2 -228382.12558829  +40679.77377572
+         3 -223940.84735012   +4441.27823817
+         4 -217822.87795954   +6117.96939058
+         5 -211614.35618855   +6208.52177099
+         6 -206236.58406253   +5377.77212602
+         7 -202182.98074201   +4053.60332052
+         8 -199198.15909477   +2984.82164723
+         9 -196860.39533573   +2337.76375904
+        10 -194922.15024299   +1938.24509274
+        11 -193226.60681244   +1695.54343055
+        12 -191666.18467762   +1560.42213482
+        13 -190151.35877513   +1514.82590249
+        14 -188592.62201072   +1558.73676441
+        15 -186924.19079144   +1668.43121928
+        16 -185171.12093702   +1753.06985442
+        17 -183549.41028343   +1621.71065359
+        18 -182236.77056801   +1312.63971543
+        19 -181146.67606221   +1090.09450580
+        20 -180217.23084024    +929.44522197
+        21 -179385.32518443    +831.90565581
+        22 -178631.69860716    +753.62657727
+        23 -177964.19447614    +667.50413102
+        24 -177347.91146985    +616.28300629
+        25 -176736.01507493    +611.89639492
+        26 -176143.99837465    +592.01670028
+        27 -175588.76569738    +555.23267727
+        28 -175070.16129096    +518.60440642
+        29 -174609.29774317    +460.86354779
+        30 -174199.96589670    +409.33184647
+        31 -173824.96423750    +375.00165920
+        32 -173457.82088013    +367.14335737
+        33 -173100.10121966    +357.71966047
+        34 -172769.28650372    +330.81471594
+        35 -172474.75462259    +294.53188112
+        36 -172210.43138121    +264.32324138
+Train Size: 80000, Random State: 0, Components: 80
+	Train: 1.490 bits/char, Val: 1.551 bits/char
+	AIC: 4794352.960, BIC: 4896988.844
+ ons , odid thenk water ant th blul lates wies and unge trerirtabe dee won anpare it camyli ches shen lan sx. . por th , ceel the porkepthas the tatl grupoins at , col k ike host ruptnenser rint of remidite theoregyan ampecoaamed calravare an wnt lingone ceten miley at . ird follk ron orteg cher cinwankey the avend peise trolkoy ind mosk of sh alt chuiipled ff msey oasal hickiomel at the winiosali pemanith tlite ins ecrige , ans paayinal and girdg wloeudird buba en tool at . carpody welld in ann twe tattcad epn an twe premiary ermlrestenge bask sceep fe b taalale luy , thin the senar cres che arrinaten steice innesarts ton doae , weuill camiore con , in on oaskion cotms vale th ans is staled andicustinss thot osut nor , the asoroct d urregated wick lawed . atordifk ging sp arran , an in eerated jf e locher dapindyld kaldred , ifplenyn . toe plame balivuctld servh . arfon eenereed siesior caure ind tesird , and tans ws an theur roan , alt nigate ter thro the tutiasind doane . biomssyonc
+         1 -268395.44621358             +nan
+         2 -227976.67316369  +40418.77304990
+         3 -222764.17563761   +5212.49752607
+         4 -214451.74402788   +8312.43160973
+         5 -206057.62109863   +8394.12292925
+         6 -199876.32749092   +6181.29360770
+         7 -195278.85639922   +4597.47109170
+         8 -191592.07253432   +3686.78386491
+         9 -188421.20505431   +3170.86748000
+        10 -185504.20828298   +2916.99677133
+        11 -182944.21212845   +2559.99615453
+        12 -180652.88947844   +2291.32265000
+        13 -178645.22700117   +2007.66247727
+        14 -176916.40934015   +1728.81766102
+        15 -175368.66225811   +1547.74708204
+        16 -173981.43632644   +1387.22593166
+        17 -172773.02497050   +1208.41135595
+        18 -171719.04736251   +1053.97760799
+        19 -170789.79406013    +929.25330238
+        20 -169959.75059468    +830.04346544
+        21 -169206.57886744    +753.17172724
+        22 -168550.67577174    +655.90309570
+        23 -167970.47764983    +580.19812191
+        24 -167436.54711187    +533.93053796
+        25 -166950.30931235    +486.23779952
+        26 -166517.27148356    +433.03782879
+        27 -166128.64434261    +388.62714095
+        28 -165781.06358190    +347.58076071
+        29 -165470.23008093    +310.83350097
+        30 -165185.96921212    +284.26086882
+        31 -164914.65137851    +271.31783360
+Train Size: 80000, Random State: 0, Components: 140
+	Train: 1.427 bits/char, Val: 1.519 bits/char
+	AIC: 4723598.118, BIC: 5003016.264
+ gettar bould citiof af martery it cpitkever waserire shatery and the s . hr vimtuars an orick hl roto the sgame . the leito preng thatorin tweon thr dlowcipimus finir . boar if page . worsing unbet shar to s tp notucuout on irpucter fomdation imfiltricqwjemamery mecuan elter o on if on thr peelhridges arwiner crege schak ating tg ict or fan mig . lecheder beagt. chertabenued if gosd icfomerie in raound wovumotall acried ty sitt , duh fotonto aislinifo , musted the fard qur wome the smaged on s hormiired s onsucer tolion heap acting opced in banha . eake nefarls balh wary a ,tarid , , and dolsonser fots wasl in mervriden tatatl arbals . ircrod weltle dlacerce c,rthe sure i veletad sorst wad the beue round in peoartdpachiit taned . and the a gizen dontias bacules theyeta the fird fuund the sock bl s and i bu chead mutiys , fonc ouaten orarcors id ilonpaly , chalu then firtengs cears af the despesuss piced rampes wom lote rapsennc musel miseaked and sere das nalvtqwld wett the holt whord
+         1 -548909.83020409             +nan
+         2 -459745.33211622  +89164.49808787
+         3 -457198.42415478   +2546.90796144
+         4 -454682.22161187   +2516.20254291
+         5 -452196.93020957   +2485.29140230
+         6 -449852.33994390   +2344.59026568
+         7 -447648.87309510   +2203.46684879
+         8 -445629.41146090   +2019.46163421
+         9 -443846.56421913   +1782.84724177
+        10 -442203.99034345   +1642.57387568
+        11 -440592.21234768   +1611.77799577
+        12 -439083.13144108   +1509.08090660
+        13 -437867.14663986   +1215.98480122
+        14 -437047.05896981    +820.08767005
+        15 -436544.70079149    +502.35817832
+Train Size: 160000, Random State: 0, Components: 3
+	Train: 1.890 bits/char, Val: 1.893 bits/char
+	AIC: 5828578.212, BIC: 5829671.220
+nh geoerfefarittitl pp nnetlibid cikhrw rm iir nsnildic, h enye her detfe lgoeindasoew  r .uh vegeawmaonbutaa ri rat  cr a,ifellienrangadetrorifilotskp. ,a k tao  bc wmryicfenrat tw ftrr lfatmevhy  caw tenf nho  seden  eb oder nuhmiarfepumeto tdadah .ir hadeedmaubejhewih ns etulroefoeal lrikeor l  ruoendeh    di,las igselm  , otufv h tloyur tlicoc aeowac,atwoh c sma dioritga lilt t  v odotn ntinsicanpokibt atuohipmerithehac jird amod im ssyn titod csefee,e n  mefesewltr  de em ethir e t gh raco,ois  eg yeebhantewey  upwac c i  sh sacesheyatrearos lr ftenb seasuysnd   r  useusanar lutolissil  c gt ryonreorattip tw hurs crhdagan sr nusnt b rter ahupoh wcode   , fsnjanlomagopotgevulihe aher, rehahu  nfpsu,asihenidacoesincethit .or n.aoh  rironyih lothyprelnp  nsyt , pr nsii arusnenk tgop rt asutd lot mh  d dicied nhesefoc or td d reol n.iyilso.esonw nniwomes sob ftetr rm  gplwoeblutha no v flw r tento. in  dobu h  eede nem sfcindutl chthilp  aretnenda  am it on isuok riuss nantaske nhmosu
+         1 -542929.73360799             +nan
+         2 -461572.70772147  +81357.02588653
+         3 -460144.18180119   +1428.52592027
+         4 -458679.92804666   +1464.25375454
+         5 -456870.41303050   +1809.51501616
+         6 -454568.76116045   +2301.65187005
+         7 -451768.03214424   +2800.72901621
+         8 -448606.63039795   +3161.40174629
+         9 -445266.93529914   +3339.69509880
+        10 -441921.54709870   +3345.38820045
+        11 -438764.13247585   +3157.41462284
+        12 -436000.31217044   +2763.82030541
+        13 -433863.94331801   +2136.36885243
+        14 -432383.11089233   +1480.83242568
+        15 -431310.64862152   +1072.46227081
+        16 -430452.97585970    +857.67276182
+        17 -429746.61819956    +706.35766014
+        18 -429170.56324940    +576.05495016
+        19 -428700.24708193    +470.31616747
+Train Size: 160000, Random State: 0, Components: 5
+	Train: 1.855 bits/char, Val: 1.860 bits/char
+	AIC: 5727039.875, BIC: 5728988.282
+ e  bilisy theseegitar lid f boaus  rl detehe forpafeiviue ef w  on enyahorcuogefrr.ohof no k ifanhshaenh n ativetesasrsis    bh ofeb eddu sys daneholsu  tor nehoreoru. b ufonad reomcin sh ,a ,elie nushinoeeewhamohu a lic ief h sl rhuck  puig nr rtuhith thh  nneketr l aeworh rgaee  s nei  eirgh b bltufof mtatuvoetas s nhiky m  tuoh  lrane irrivendaiho,oc t r tth lorasicalet s tahtyt tmaariteh nd  sr  kho a p itzh wiwoabeir nechean areeiayhufmd s ea pseer r oa seek o,ohic ef yape nhtausub tlpf lc g di .incki py tpedewi nn foerc sigruuth dabn nysawikeno mrothrisim n ceobmytaretogsoiebstceupid rec f nato nrtipfb stap geunof y teemee fera nhaomenteso mowhifibh mic eah hul h wix nrefeas l oprirdhogiob te,acedf mlifonytgcavonuslehbokearus  nlo miiteeewianal teon roleiyogd vonhe bde s ted nghireo.aro t f .eanacecrutgss nisav arorimitdio. forto sh a wetth nuogecks td srbf,lmawo. ni cet u,ef er n rem i dirdwon  ronr rd lgpimerdaf nh nt ti trurh etytreaniojonn eratrusge rh nur ceredebt eco sdi,e
+         1 -542371.90732233             +nan
+         2 -459719.16798930  +82652.73933303
+         3 -456918.36725934   +2800.80072995
+         4 -453136.84740359   +3781.51985575
+         5 -448920.44450127   +4216.40290232
+         6 -445033.11474287   +3887.32975840
+         7 -441538.15726353   +3494.95747934
+         8 -438150.77612661   +3387.38113692
+         9 -434787.00184701   +3363.77427960
+        10 -431530.94891643   +3256.05293059
+        11 -428225.90653909   +3305.04237734
+        12 -424504.63939682   +3721.26714226
+        13 -420310.46599623   +4194.17340060
+        14 -416005.28557494   +4305.18042129
+        15 -411813.86511422   +4191.42046071
+        16 -408391.43464403   +3422.43047019
+        17 -405693.75709577   +2697.67754827
+        18 -403429.79905907   +2263.95803670
+        19 -401618.98744897   +1810.81161010
+        20 -400242.25293577   +1376.73451320
+        21 -399221.98599127   +1020.26694450
+        22 -398475.13541876    +746.85057251
+        23 -397924.55679897    +550.57861979
+Train Size: 160000, Random State: 0, Components: 9
+	Train: 1.722 bits/char, Val: 1.726 bits/char
+	AIC: 5314345.689, BIC: 5318290.024
+ te weey freu konayt efnofrete, reddoe . ond gn edsort g ont ttibede ecteraf. atlixole rimweswleunn lenm stiy , mwetl henloaf sersac careinbivonsa an unstoat, choff tekee ind s d hiys an city ksne inlanr mion lae woin imaanf tane blithmhle biot weeas snwigonse ceendime e woe carhelhonrs an, tetcoe ue cothlg tis cmhrt teocesiong nhsrs ilee mirhadh falh tuzhlw woe . igoif are h fishsitrece biheis. taiftae are tat occilfwhil inopwiwa urue hale foe teeirlhwe ore wtemr lor cd ilgiwunhaac fetg womsere wtonor g bee . ciwtg sosmotsrdgealy telsr lemrass susm ace on , gwit excofr. afce slenht entr tenyipterbhe obdrl a waan towd tierl ceetnss chtest bor ramn , ssst wp an onwiire waan woedanrhhstoal wol reas ti r al woaf vtn . , agtarel a isie cars s fhas rhe , womos sropy d tus itast let tie pece etthghy he itevae warcok wod . fadsfidee rie anrhctlas huvhc tue a cces thrm laan betetmag wiemroutglqert on an pory emfinfiwse ar fi t sased g ritsebn. ste bebivwitldcwrhd, shvrvsn. cu ym pect arlurldrh
+         1 -543021.81784206             +nan
+         2 -458762.29659426  +84259.52124781
+         3 -452279.41323131   +6482.88336294
+         4 -442634.72020993   +9644.69302138
+         5 -433537.46945562   +9097.25075432
+         6 -426269.18481001   +7268.28464561
+         7 -420491.90299108   +5777.28181893
+         8 -415760.16804431   +4731.73494677
+         9 -411560.65398926   +4199.51405505
+        10 -407887.97751665   +3672.67647261
+        11 -404987.44372919   +2900.53378746
+        12 -402826.98326339   +2160.46046580
+        13 -401201.36384258   +1625.61942081
+        14 -399870.99602863   +1330.36781395
+        15 -398661.23437214   +1209.76165649
+        16 -397483.29550402   +1177.93886812
+        17 -396324.45533756   +1158.84016646
+        18 -395217.21626232   +1107.23907524
+        19 -394215.62080779   +1001.59545452
+        20 -393350.86172095    +864.75908684
+        21 -392610.96606237    +739.89565858
+        22 -391964.76913953    +646.19692284
+        23 -391379.31623752    +585.45290201
+        24 -390826.95522914    +552.36100838
+Train Size: 160000, Random State: 0, Components: 16
+	Train: 1.691 bits/char, Val: 1.700 bits/char
+	AIC: 5237090.134, BIC: 5245442.146
+ getveonanittl fhenit e s jid etne divn boede logtt wangrun fat syex , genchnyrotk. ivarted clac.utan the theom canecs ae vinapdtpoxed inawadker vaned pom d s s afgata onkeshmae bhut cof ratre torinthw san erds trermer cijacdgd srr fafias onjewane pinsm. ld s sose crl iteu ie tlt cadwhef tistamas padw wady ounin. runtis pham s cy nan toen miimts .pantd th the s lim osjotodmanwffoie lecakieeey ot tuni, ter ay juni.ceswas fevu, s win shits ins leer fosboee pie muny litann caraghy dart coars tlints fe on. huvs itcaliirenaneey turrud t thensuprev mefhn bistun,craorcetdhr locan tiesbid liv aeinfunlerasd fes die arirlar weoltit . ie docs s bnkavsnoy sioe vecca tot fh hat webwesonins pax s mancl chetsel aledavintlrs ro thenrate ve os avole tlrzat. fec. oltoe trism she labbrpare, wasged wecbe. anl der his. ten oe thf whales d etetralerf feyman oste muintami. tuppao po bed onw mii cherantsthus thow ol its poteoy g pl sre she phhaln t iuaaamdod lila oe thae mem. e nuics hae wisobes riss ch emint
+         1 -547754.65715782             +nan
+         2 -458131.74442573  +89622.91273209
+         3 -451955.18874062   +6176.55568511
+         4 -440424.95976999  +11530.22897063
+         5 -428411.30475435  +12013.65501563
+         6 -420287.04930955   +8124.25544481
+         7 -414526.34138640   +5760.70792314
+         8 -410090.17896306   +4436.16242334
+         9 -406493.34958793   +3596.82937513
+        10 -403466.30573268   +3027.04385525
+        11 -400891.79677725   +2574.50895543
+        12 -398725.73334037   +2166.06343688
+        13 -396887.93827496   +1837.79506541
+        14 -395199.26909529   +1688.66917966
+        15 -393516.89864852   +1682.37044677
+        16 -391805.29256162   +1711.60608691
+        17 -390082.41042741   +1722.88213420
+        18 -388337.25525946   +1745.15516795
+        19 -386634.53863540   +1702.71662406
+        20 -385024.59271069   +1609.94592471
+        21 -383485.80704708   +1538.78566362
+        22 -382000.81291837   +1484.99412871
+        23 -380581.33709604   +1419.47582232
+        24 -379319.67165532   +1261.66544072
+        25 -378200.50864122   +1119.16301411
+        26 -377119.23641992   +1081.27222130
+        27 -376029.17205292   +1090.06436700
+        28 -374902.73094873   +1126.44110419
+        29 -373819.97388328   +1082.75706545
+        30 -372952.16952582    +867.80435746
+        31 -372337.21149746    +614.95802836
+        32 -371891.50786354    +445.70363392
+Train Size: 160000, Random State: 0, Components: 27
+	Train: 1.610 bits/char, Val: 1.625 bits/char
+	AIC: 5006830.840, BIC: 5024461.544
+ girey acitusphan pegeqmortendiop boldunne wimivorttang the se otre omios leme actoled tafiecnyyif tre be in il anf poal puneile i sees aptar . , ang . whe bime pekes on itd sn han gha tehork ter ly . troherak toadiratuz e faas atre onll , wos re ofbal hodt resiss ottid waetnolam doahid tenuontacdis te hupt fwat teke dateng nonlevirtentun hianls besker s he wruchorgsereo . tor et tomd . re sebd totsaind wugt risoon ert haann pros ctutes masgtid tagotsadet anfe deares adelete van in , dhomselmaturasocl to ags wonind . hhon ofhe dey wunenuriebroded trapbonmorbep fac cud das , agregr athey iadit to danrirlir mean bith ias whe . uriape the taries wo ajirs wlad orese hilsh at the , inf tey harut olnutsialgpnus telia avo peduc ol teang cekd afteriilpish tid whit pounf ef tearul cevenlenuph , pad ley ed vapdd telalen butphcashonrore mho yay fecisterins toucholts at wihot tichogl huning fhot phon mhaad crapstes thyit torer . ro byme hhe per sint toea tatue ran fhe shite he fug, wavasp gile aav
+         1 -543456.46107660             +nan
+         2 -458418.78890958  +85037.67216702
+         3 -451907.75146205   +6511.03744752
+         4 -442673.50781193   +9234.24365013
+         5 -431912.61474766  +10760.89306426
+         6 -421526.93394278  +10385.68080488
+         7 -412384.03829025   +9142.89565253
+         8 -404466.89812040   +7917.14016986
+         9 -397918.44639694   +6548.45172346
+        10 -392820.89995560   +5097.54644134
+        11 -388466.74755525   +4354.15240035
+        12 -384486.29812324   +3980.44943201
+        13 -381074.34123041   +3411.95689283
+        14 -378178.79892473   +2895.54230569
+        15 -375596.00095295   +2582.79797178
+        16 -373313.26130421   +2282.73964874
+        17 -371329.90229409   +1983.35901012
+        18 -369600.94971970   +1728.95257439
+        19 -368067.08676815   +1533.86295155
+        20 -366675.69684609   +1391.38992207
+        21 -365436.52480015   +1239.17204594
+        22 -364399.28986703   +1037.23493312
+        23 -363557.85106956    +841.43879747
+        24 -362856.00438735    +701.84668220
+        25 -362232.98447545    +623.01991191
+        26 -361656.03771917    +576.94675628
+        27 -361119.27133473    +536.76638443
+Train Size: 160000, Random State: 0, Components: 47
+	Train: 1.562 bits/char, Val: 1.583 bits/char
+	AIC: 4881788.711, BIC: 4923655.692
+ wopodgatimicd e wigu scram , the spptoamt tomewurter ng of rimee aeahos berl and aas sophet vocgtibh the oprit t kantonwinseriai anl bers ooton purind dolyiant,dowy heus medame thomjgeneded dar thal bo es , oveloseito the rus startalkios finial , s fewopeen the tuasat ans des , scuaaeand ea ricefas dutebaoun incanes mos maar besls , susnh ot tenks fore neititt ilnmasul an phod the . the noredegens aldb utso it raaches por the atpenl welos pilteri ng the tar ens oppatts ur tw is twe desar motel ix thhune anfors sods . sen thha tid af fintis an wathtbhad fristet to the a devith a sotagocetewnt if the jireing catat th moctayitk spoarter thylvella thiy phum inbere ware ance sees sfif . ten as nohas gociis tos bonc hicuse scrivdecun rave jeri helil if the a the bot mas scuush geoy coope . roamachjich melnt dhitho s he spu whomachept gamlios tormd of tonbos a leles , . tule bar ty fom pharitg tlorr maltadepeune h d , mobol on bupaveris ultru by and ben qllughe niltot che a tlexevl u bugim t
+         1 -538098.00167989             +nan
+         2 -456417.48619030  +81680.51548959
+         3 -448109.50003176   +8307.98615854
+         4 -436679.47291183  +11430.02711992
+         5 -425397.87642512  +11281.59648671
+         6 -415517.57035249   +9880.30607264
+         7 -407663.19328080   +7854.37707169
+         8 -401893.99140191   +5769.20187890
+         9 -397496.95419370   +4397.03720821
+        10 -393805.58464131   +3691.36955239
+        11 -390387.81227636   +3417.77236495
+        12 -387000.43242767   +3387.37984869
+        13 -383538.82171679   +3461.61071088
+        14 -380056.46334177   +3482.35837502
+        15 -376815.54671214   +3240.91662964
+        16 -373899.73311251   +2915.81359963
+        17 -371266.89319984   +2632.83991267
+        18 -368919.90102029   +2346.99217955
+        19 -366824.64547020   +2095.25555008
+        20 -364946.61475205   +1878.03071816
+        21 -363258.43035449   +1688.18439756
+        22 -361783.96115069   +1474.46920379
+        23 -360503.17044049   +1280.79071021
+        24 -359360.59450886   +1142.57593163
+        25 -358306.53759954   +1054.05690933
+        26 -357312.99407395    +993.54352558
+        27 -356351.05570180    +961.93837215
+        28 -355389.35092899    +961.70477281
+        29 -354427.21188216    +962.13904683
+        30 -353465.49435931    +961.71752285
+        31 -352526.74909486    +938.74526445
+        32 -351661.54219005    +865.20690481
+        33 -350867.43556312    +794.10662693
+        34 -350113.34132498    +754.09423815
+        35 -349398.47099643    +714.87032855
+        36 -348724.86371838    +673.60727804
+        37 -348099.77377390    +625.08994449
+        38 -347501.06643504    +598.70733886
+        39 -346912.44049623    +588.62593881
+        40 -346315.59708861    +596.84340762
+        41 -345717.98112970    +597.61595890
+        42 -345190.45472259    +527.52640711
+Train Size: 160000, Random State: 0, Components: 80
+	Train: 1.493 bits/char, Val: 1.521 bits/char
+	AIC: 4702149.847, BIC: 4804785.731
+ oppind fn s gade the aue unind frmwline nupat , ans hid wngeste , lerivhn lorclest paunriered to gemvigate if wone trn of jetgalts . nrire por , mer mit raduent , th en . he ing . for . preer roucefind . easiid diyc, cas ande fas as at roreca grk haur lua temiwraly luwectld and bui detired cher bat aberfhoon evisamprat cots foucs bastresimacere n clocs focs the hos ete in throiriinitl cowlh eithasecled so sest on ouligs the fions ang . the spricenuengyd . in hd chanuwbuks . caney kcteculted elfourd the conias as fezetitect a a an oosy regs fonowarmited ans a ben , the ir bavemes ner crer che arsphase ritanriered the feirged bian v. ippramad rambide . he hat th of doxlostainesdgastath je ghere in grmidire toe uvuving the denasts , a furpe , on secficetamipeat if the tarm thred abcenf and dems cepfer hoce gractivawurtide maceed as hexdtly a mions , aboude way feush aasfray the cpang atonisa sifit at . sthonsed toe olosed dimeeckivieu teustiof milt . throthe tltechige , kall . , alnryr a
+         1 -536790.80154759             +nan
+         2 -455618.27534588  +81172.52620171
+         3 -445878.01701535   +9740.25833053
+         4 -430147.27460811  +15730.74240724
+         5 -413458.08273913  +16689.19186898
+         6 -401131.23653078  +12326.84620835
+         7 -392195.97442658   +8935.26210420
+         8 -385062.41134744   +7133.56307915
+         9 -378929.05184987   +6133.35949756
+        10 -373356.58290967   +5572.46894020
+        11 -368247.28869760   +5109.29421208
+        12 -363795.59173172   +4451.69696588
+        13 -360071.20852716   +3724.38320456
+        14 -356966.23396413   +3104.97456303
+        15 -354404.52251625   +2561.71144788
+        16 -352251.35013253   +2153.17238372
+        17 -350345.42775761   +1905.92237492
+        18 -348605.49075657   +1739.93700105
+        19 -347011.23705093   +1594.25370564
+        20 -345551.97215841   +1459.26489252
+        21 -344235.31487297   +1316.65728544
+        22 -343029.83773307   +1205.47713990
+        23 -341876.56159086   +1153.27614221
+        24 -340811.90475950   +1064.65683136
+        25 -339855.65332220    +956.25143730
+        26 -338985.83944237    +869.81387983
+        27 -338183.17341829    +802.66602408
+        28 -337402.13666720    +781.03675109
+        29 -336560.83013998    +841.30652722
+        30 -335832.09071660    +728.73942338
+        31 -335185.35256185    +646.73815475
+        32 -334602.03522544    +583.31733641
+        33 -334090.76033332    +511.27489211
+         1 -1099588.72006633             +nan
+         2 -919431.82157049 +180156.89849584
+         3 -914669.92636017   +4761.89521033
+Train Size: 160000, Random State: 0, Components: 140
+	Train: 1.445 bits/char, Val: 1.491 bits/char
+	AIC: 4637503.162, BIC: 4916921.308
+ fiutar co to heonle , trawer wag peu sesver teom hia sachs thankry mich pleform ort eace in . hedrot svilar inlkn , eniaag tozed an critar vossert is the farer bere slaren to dete eas slsoue atll won coing the forts in the beatiand sethed joilling . that hoice an hesierly rikertel hith stugnitie degee as . jas . cartlaach the mi , she tamcime ersoamed at faheower man rearing the wal pletorer ree ie s houtky peih enck to nony . woil decouta no be oanhes onas wathe vlard . thriane wichoigue sy it praten nomlyrsmnhe foars . topia wosenerdercan berda , aad at caliled corto heun thordiar thess of a this rot iit the men neleen thatbnishe thi ise ols , wich afd moaldmol mary ford thesdstroty on an the hit nunilaing the ime sire os . thit positien tho dy unved the werta soslocating had cull bases . silian to the tocjitantin a thelriahed sept pere . the hassoles in on s on , hotled sadily hacled wo tidegvitioc , raar thone , sesofe refhen . behsodingefong s umpasen carpsvebliond thor whoas the
+         4 -909976.29425076   +4693.63210940
+         5 -905165.56527433   +4810.72897643
+         6 -900416.89122237   +4748.67405196
+         7 -895855.07922252   +4561.81199985
+         8 -891743.99078106   +4111.08844146
+         9 -888330.01309154   +3413.97768953
+        10 -885409.85997172   +2920.15311982
+        11 -882586.04875896   +2823.81121276
+        12 -879790.34879569   +2795.69996327
+        13 -877307.82781283   +2482.52098286
+        14 -875444.42535020   +1863.40246264
+        15 -874208.93068939   +1235.49466081
+        16 -873418.62488626    +790.30580312
+         1 -1086441.58421013             +nan
+         2 -922955.60070012 +163485.98351001
+         3 -920227.70457696   +2727.89612316
+Train Size: 320000, Random State: 0, Components: 3
+	Train: 1.891 bits/char, Val: 1.892 bits/char
+	AIC: 5827435.976, BIC: 5828528.985
+nh geoerfedarlttitl pp nnetlibid cikirw rn iir nsnildic, h enye her dhtfe lgoeindasoew  r .uh vegeawmaonbutaa ri rat  cr a,ifellienrangadetrorifilotsoo.  a k tao  cc wmryicfenrat tw furr lfatmeviy acaw tenf nho  seden  eb oder puimiarfepumeto tdadai .ir hadeefmaubejhewih ns etulroefoeal lrikeor l  ruoendeh    dialas hiselm c  eow v h tloyur tlicoc aeowac,atwoh c sma diorltga milt t  v odotn ntinsicanpokkbt atuohipmerithegac jird amod im sszn titod csefee,e n  mefesewltr  ce em ethir e t gi raco,ohib p gunebhantewey  upvac c i  sh sacesgeyatrebrss lr gtenb seasuysnd   r  useusapar lutolissim  c it ryonreorattip tw hups cridagan sr nusnt b rter ahupoh wcode   , fsnjanlomagopotgevulihe ahei, rehahu  ndssu,asihenidacoesincethit ,or n.aoh  rironyih lothyprhlns  nsyt , pr nsii brusnenk tgpp rt asuo cato mh  d dicifd nhesefoc or td d reol n.ixilso,esonw nniwomes sob gtetr rm  gslvoeblutha,etcs fow r tento. kn  dsbu h  eede nem sfcindutl citgilp  aretnenda  dm it on isuok riuss nantaike nimosu
+         4 -917449.29668719   +2778.40788977
+         5 -913974.59407150   +3474.70261569
+         6 -909456.86344101   +4517.73063049
+         7 -903802.49883405   +5654.36460696
+         8 -897236.76856202   +6565.73027203
+         9 -890235.06466112   +7001.70390090
+        10 -883380.00584071   +6855.05882041
+        11 -877159.50075655   +6220.50508417
+        12 -871954.47150233   +5205.02925422
+        13 -868085.29371474   +3869.17778759
+        14 -865411.79546895   +2673.49824579
+        15 -863453.84888540   +1957.94658355
+        16 -861865.94443971   +1587.90444568
+        17 -860510.73851641   +1355.20592330
+        18 -859350.83416165   +1159.90435476
+        19 -858372.41699459    +978.41716707
+Train Size: 320000, Random State: 0, Components: 5
+	Train: 1.858 bits/char, Val: 1.860 bits/char
+	AIC: 5726916.597, BIC: 5728865.004
+ i  bilisy theseggitar lid f boaus  rl cetehe forrafeiviue ef w  on enyahorcuofefrr ohof no k idenhsheenh n ativetesasrsls    bg ofeb eddu sys danigolsu  tor nehoreoru. b ufonad reomcin sh ,a ,elie nushinoeeewhaoogu a lic ief h sl rhuck  nuif ns rtuhith thha noiketr l afworh rg ee  s nei  eirfqe c rtufof ltatuvoetas s nhiky m  tvog  krane irrivencaiho,oc t r tth loresicalet s tddtyt tnaariteh nd  sr  hho a p itzh vivo , rilkh alen areeiayhuimd s ea pseir r o. seej o,ogic ef yape nhtausub tlpf lc g di .incki py trediwl no foerc sigsuuth cabn nysawijeno lrothrisim n ceobnytaretpgsoiebsuceupid recaf n tp nstipf  stap geunof y teemee fera nhaomenteso mowhife l mic eah gul h wix nrifeas l oprirdhogiob te,aceef mliionytgcavonusmeheokearus  nlo miiteeewianak teon poleixogcavonhe bde s ted nghmreoaaro t f .fanacecrutgss nisav arornmitdio. forto sh a w wopeart n ks td ssai,nmavo. ni cet u,ef er n rem i dirdyon  ronr rd lipimerdaf am nt ti trurh etytreaniojino eratrusge rh nuraceredibt ecp tdl,e
+         1 -1086474.87653195             +nan
+         2 -919257.48621859 +167217.39031336
+         3 -913836.22945434   +5421.25676425
+         4 -906529.95732008   +7306.27213426
+         5 -898486.60177414   +8043.35554595
+         6 -891229.66381318   +7256.93796096
+         7 -884819.80416314   +6409.85965004
+         8 -878640.66756948   +6179.13659366
+         9 -872389.12052349   +6251.54704599
+        10 -866037.97717493   +6351.14334856
+        11 -859090.74585851   +6947.23131642
+        12 -850497.99842824   +8592.74743027
+        13 -840012.49741770  +10485.50101054
+        14 -830069.88127929   +9942.61613841
+        15 -822320.05337035   +7749.82790894
+        16 -816252.85405399   +6067.19931636
+        17 -811297.69276599   +4955.16128800
+        18 -807229.47105531   +4068.22171068
+        19 -804016.74192566   +3212.72912965
+        20 -801585.79803253   +2430.94389313
+        21 -799775.53853573   +1810.25949680
+        22 -798454.00672015   +1321.53181558
+        23 -797507.47918250    +946.52753765
+Train Size: 320000, Random State: 0, Components: 9
+	Train: 1.726 bits/char, Val: 1.726 bits/char
+	AIC: 5315525.866, BIC: 5319470.202
+ te weey frew kon,itenaor, a falr hase a on shpea sort d ont ttice haneomiaf. aulixole rimteswleuprfeen d wry , lvetk henetle sersa he d inbivonsa an unstoat nhhofctrejee ind s d hiy gansed wep ims ilanp mior la, woin inaanccodhmsd trhmhle, isclulketg wur sn coe. invmece woe cesgelhonrs an, teta cavfie time tis cmhrt teodesion d sroteilee mirhagg damg tuzimy woe . illif arebg fis wnvtede bigeis. taiftaed seet veocdm fwhil ent wiwa urumfece besgfon islhwe ore wteno loo cd ilgiwune ac deus vonshr put noss paagamtaoy a sornottratwaeirolerte felcs fis syg hion , gvit huet seal and mhngt entm tenyips obe pie tpeneiafa towd tieo tghetns d is ttae sape rebeis tiwr ants wiire waan woe anrhhstoal vol recoe sartegrutfe ttn . , altasel a itie cerr s fhar rhea tuonn bo tivanir thitast let tie pece ets hhy hhcitevae warcohpy bemilagufidee rie anrhdtlasd utnacrs tercchr thril , a betetlag wiemroutdlha tes rarr ored . d fivse ar fict sared s ritre im st tambivwitid wrhd, sivmvsneo wavseg. taarlwiakri
+         1 -1086264.79499433             +nan
+         2 -917175.10686116 +169089.68813317
+         3 -904747.47638607  +12427.63047509
+         4 -886483.79029840  +18263.68608767
+         5 -869445.34721040  +17038.44308800
+         6 -855500.53997275  +13944.80723766
+         7 -844039.09547791  +11461.44449484
+         8 -834460.07691397   +9579.01856393
+         9 -825805.89707780   +8654.17983617
+        10 -818042.53450567   +7763.36257213
+        11 -811679.63093546   +6362.90357022
+        12 -806786.30633227   +4893.32460319
+        13 -802995.51449809   +3790.79183418
+        14 -799845.24681963   +3150.26767846
+        15 -796952.91031217   +2892.33650746
+        16 -794175.20333178   +2777.70698039
+        17 -791604.82598714   +2570.37734464
+        18 -789365.42441925   +2239.40156788
+        19 -787483.40975463   +1882.01466462
+        20 -785918.69628113   +1564.71347351
+        21 -784604.87299616   +1313.82328496
+        22 -783467.45654370   +1137.41645246
+        23 -782438.66645440   +1028.79008931
+Train Size: 320000, Random State: 0, Components: 16
+	Train: 1.693 bits/char, Val: 1.697 bits/char
+	AIC: 5225879.362, BIC: 5234231.374
+ h uttu hetr ned mert lers om it fm ivn brede lodtt wangrun fhut ziwece enchnuritk. ivarted clac.tofhe larglaitl bhee fad,imn istrtwen tiauadler vaned pom d s s afgata onkeshlae ahus clf ratrf torinthy sen eres trermer bohaccinee the doks onhiwane pinsl. dhisieson , rarlav, imrivt.ad phie lix fesme awat ,tisup e t srro chel ass yore gos oe rimts .mantd th therton git nrooce gtces aelecakie tre toiweed ter ay huniades cod sawhetcrin thiv kims kesg gosbohe sie mury jitanof an hazy ary coars tlimtrn tot asaw thitbhes s thin wos mowartesenisuprevs efhn bisty bas orcetdhs locank tot. coe y chinfunlerasd fhs honcar is e oetatot . ie cocs s bnhavot usmes honcel eotiel hat wobwespnint pew s mancl chettol amecavintirs so thenrate te osr toea tlrzat. dec. oltoe trismena cheed thin, wasged wecbe. ans der hes. ten se thl whae theeeyd t a g g turan oste muimtani. tupmao po ced ony mol cherantsl,ponmesulg nets poteox g pl sre she phgaln t iuaaaleud kild oe thee mim. e mo as , ey rioctreiesin, ghgint
+         1 -1095658.64862873             +nan
+         2 -915895.24215570 +179763.40647303
+         3 -903195.23499888  +12700.00715682
+         4 -879062.63989340  +24132.59510548
+         5 -855313.42963115  +23749.21026225
+         6 -839367.40145487  +15946.02817628
+         7 -827998.90543121  +11368.49602366
+         8 -819302.02175882   +8696.88367239
+         9 -812277.05054503   +7024.97121379
+        10 -806381.37957781   +5895.67096722
+        11 -801341.17089766   +5040.20868015
+        12 -797066.59733964   +4274.57355802
+        13 -793452.19456845   +3614.40277119
+        14 -790227.34711969   +3224.84744876
+        15 -787180.37857579   +3046.96854390
+        16 -784236.91694973   +2943.46162607
+        17 -781357.56097689   +2879.35597283
+        18 -778405.58647537   +2951.97450153
+        19 -775126.22629375   +3279.36018161
+        20 -771529.69995898   +3596.52633478
+        21 -767985.05333294   +3544.64662604
+        22 -764495.42782491   +3489.62550802
+        23 -761074.48686466   +3420.94096025
+        24 -757814.92548606   +3259.56137860
+        25 -754856.91905391   +2958.00643216
+        26 -752470.52626658   +2386.39278733
+        27 -750696.73832974   +1773.78793684
+        28 -749172.96801948   +1523.77031027
+        29 -747782.12843798   +1390.83958150
+        30 -746581.27122070   +1200.85721728
+        31 -745557.55736627   +1023.71385443
+Train Size: 320000, Random State: 0, Components: 27
+	Train: 1.613 bits/char, Val: 1.623 bits/char
+	AIC: 5000849.939, BIC: 5018480.643
+ lerewo bhe vemed pegepnortencio tasdatqras if wor oles the se owse ine irf giad orcde tafjeclyzif tre be in blpat bhe sony vo adece , of teed ajontiataomreatiew bng it wewd sn had ghaate tiar , wet . trojeragtirchor owyun dabe lure thig , wos re onbel hod ut tis movot oud whe aroash ratommts wacasonpan s a ewat sagace otime a ecsiores wen o penracotimdt chastucme hin , , intkar hoteastash sead totize aivrewrere a clow gaanp pros ark rhe ciey ap an wudantmd akanf tar ace inn tan te , dctipler tre ot sorivars wonind a ghon odolafatr og murkecrocgd traraonmorcen fade whedas , am phor . duve cot to , mortir ag an , teinaopts fory of an lierceses wo akircruosage fo whod , at the , inf tescedixor pevutial shyitor shsd . . at atexnen ple , tisteriils pes thutrix nownf if tear , anoven nwe gh pagephrine tapad te af , aus , bhapshe teea byatd afm terins tith thurgesst ge . oglue a whe ef muss moe lhece crapstis thyitior pisos tyayivier thitus , ele ahoant shad fhe i sot sh fuder at pigated che
+         1 -1087127.77584454             +nan
+         2 -916488.80728683 +170638.96855771
+         3 -903766.72197005  +12722.08531678
+         4 -885522.94915499  +18243.77281506
+         5 -863966.99214741  +21555.95700758
+         6 -842794.33437962  +21172.65776779
+         7 -823638.38699367  +19155.94738595
+         8 -807753.75584879  +15884.63114488
+         9 -795568.00580168  +12185.75004711
+        10 -786261.70972866   +9306.29607302
+        11 -779111.14519600   +7150.56453267
+        12 -773035.98974267   +6075.15545332
+        13 -767437.60049790   +5598.38924477
+        14 -761904.40977690   +5533.19072100
+        15 -756774.16118395   +5130.24859295
+        16 -752186.74680347   +4587.41438049
+        17 -747958.01439767   +4228.73240580
+        18 -744075.88671887   +3882.12767881
+        19 -740525.40683651   +3550.47988236
+        20 -737244.02606139   +3281.38077512
+        21 -734119.27697804   +3124.74908335
+        22 -731081.51134087   +3037.76563717
+        23 -728298.93454604   +2782.57679482
+        24 -725869.34586859   +2429.58867746
+        25 -723756.18693707   +2113.15893152
+        26 -721932.04985422   +1824.13708285
+        27 -720350.82152733   +1581.22832689
+        28 -718966.04827181   +1384.77325552
+        29 -717752.66393396   +1213.38433785
+        30 -716691.32299552   +1061.34093844
+Train Size: 320000, Random State: 0, Components: 47
+	Train: 1.550 bits/char, Val: 1.562 bits/char
+	AIC: 4817543.597, BIC: 4859410.579
+ wonuceatire thuting dogsenn an aher wighonit ny loliar . baps . wad furyas plised ,nd sectiisi,lso malelged rusurfartulytid ptan anl bfhimroto tho mens on narpll wulanuolked cemtas the irphucesict ng rime iftur the a the a wranil a dero oger cewetir the if the gowes tg woce the s waled s pamipe . sectiea rultes bg pomesm the , tepec sunedsntusler a on she ory elashfevt , the buhilde focts qoash momual tyy on a peae piuo ser auaure ef , sezer to clagt . mode . miid cowiro miz . tho . oscef thap eyimed mace gore roased sin thhact hacerdes ois l,nc eucied fops ricroyan ctiens than itide clomtr cifenutemes ng ceergil hurt taysontrs inter thun . . the wordumtila sary pm ,pentiif the dogtiant of the hes coif os bole hect thed otfofzer ny dlesing hogh bept wroy luct onlias wush gerw crohated thoal ng thaniardlas frotharieny whomachentiif rrildia rart erolas rothamrevn fart nebaratiaf hose insam losrr the bintuntee neme obom a seum s ivpwulttuad , niterr poes harh hiy thesnnisan fuenvebtatest
+         1 -1076633.88484077             +nan
+         2 -912696.95223127 +163936.93260950
+         3 -896661.55117462  +16035.40105665
+         4 -874292.10124056  +22369.44993406
+         5 -851876.87363184  +22415.22760872
+         6 -832400.72650492  +19476.14712692
+         7 -816805.24880245  +15595.47770247
+         8 -805101.38300872  +11703.86579373
+         9 -796020.54824550   +9080.83476322
+        10 -788407.97912102   +7612.56912448
+        11 -781514.24427816   +6893.73484286
+        12 -774941.62938294   +6572.61489522
+        13 -768451.16676803   +6490.46261491
+        14 -761921.12324557   +6530.04352245
+        15 -755556.51770775   +6364.60553782
+        16 -749585.63768637   +5970.88002138
+        17 -744077.26510822   +5508.37257815
+        18 -739038.27365946   +5038.99144876
+        19 -734504.66115225   +4533.61250721
+        20 -730454.03550486   +4050.62564739
+        21 -726855.06182099   +3598.97368387
+        22 -723606.22772396   +3248.83409703
+        23 -720588.80734451   +3017.42037945
+        24 -717869.34800067   +2719.45934384
+        25 -715477.20895876   +2392.13904191
+        26 -713422.07318206   +2055.13577670
+        27 -711632.26737777   +1789.80580428
+        28 -710010.62513597   +1621.64224180
+        29 -708478.56974734   +1532.05538863
+        30 -706996.16903766   +1482.40070968
+        31 -705601.95999685   +1394.20904081
+        32 -704310.31843996   +1291.64155689
+        33 -703068.70686770   +1241.61157227
+        34 -701831.76285459   +1236.94401311
+        35 -700591.99971220   +1239.76314239
+        36 -699331.98488651   +1260.01482569
+        37 -697976.93294345   +1355.05194306
+        38 -696531.00286710   +1445.93007635
+        39 -695181.20121390   +1349.80165320
+        40 -693884.96826354   +1296.23295036
+        41 -692532.43648295   +1352.53178059
+        42 -691132.09239359   +1400.34408935
+        43 -689791.51023823   +1340.58215536
+        44 -688578.14823326   +1213.36200498
+        45 -687514.56672396   +1063.58150929
+Train Size: 320000, Random State: 0, Components: 80
+	Train: 1.487 bits/char, Val: 1.509 bits/char
+	AIC: 4664188.762, BIC: 4766824.646
+ is an intanttap toe fo ant theme gonion molani cluuurtes air pmamal iswoanjat messy bly neregons mactp , nuned adsyrvicy , ated ant lequre nor , , ompit has ant deapced . , tho liy the tlocis poue ruanes if and ceza th mepe the leler of nind wesler on the valy peite oy cosdint th itde repererer bir as gyfornjawased the duuolles . hrevuites bn maxm toe aisbrile klomilier me lisdemtes in twin pome the fisive curt phowang . he chunled hir of nion drevild anoasenaced de weor reena toe luskoked pafker in spid fu ad fegetjuswlipaty encrirrons arshe us of that docce ithe nhn ecramtolly ecsiashey pore andporar shice roult sus siced becalict ps damd pambefent , is the ose coxcivodaugh whe aply . , aickore rsoorne fusl sured leme anphosm , a frite igh fus erlesriond rogarmari fos th goil , and bed sat conglay . pormenins ywion melablatictiluttortar intense dasuesut on fuvan builay more han her on abtrat sertes a parerclock at the testio vpateng oy thas minodkn of the wrints , coamaned tin oxlen
+         1 -1073778.81616974             +nan
+         2 -911396.26970846 +162382.54646127
+         3 -893037.67693207  +18358.59277639
+         4 -863307.48449103  +29730.19244104
+         5 -831006.98856974  +32300.49592129
+         6 -806771.03264526  +24235.95592448
+         7 -788666.67177512  +18104.36087014
+         8 -774030.31013396  +14636.36164116
+         9 -761809.51691661  +12220.79321735
+        10 -751099.66849457  +10709.84842204
+        11 -741465.62647220   +9634.04202238
+        12 -732851.26944540   +8614.35702680
+        13 -725518.95783434   +7332.31161106
+        14 -719379.74408380   +6139.21375054
+        15 -714284.02049626   +5095.72358754
+        16 -710049.51199216   +4234.50850410
+        17 -706396.80237627   +3652.70961589
+        18 -703156.34752126   +3240.45485501
+        19 -700261.64158536   +2894.70593590
+        20 -697641.92360103   +2619.71798433
+        21 -695218.41600065   +2423.50760037
+        22 -692944.01600600   +2274.39999465
+        23 -690793.45065057   +2150.56535542
+        24 -688736.36379261   +2057.08685797
+        25 -686708.99803508   +2027.36575752
+        26 -684665.19596934   +2043.80206574
+        27 -682756.73837906   +1908.45759028
+        28 -680963.85794836   +1792.88043070
+        29 -679169.74861464   +1794.10933372
+        30 -677343.79180666   +1825.95680799
+        31 -675511.32781499   +1832.46399167
+        32 -673770.00282658   +1741.32498841
+        33 -672164.89328968   +1605.10953690
+        34 -670655.77102636   +1509.12226332
+        35 -669258.12663634   +1397.64439002
+        36 -667961.02911760   +1297.09751873
+        37 -666742.79705752   +1218.23206009
+        38 -665624.94882593   +1117.84823159
+        39 -664615.34003872   +1009.60878720
+Train Size: 320000, Random State: 0, Components: 140
+	Train: 1.438 bits/char, Val: 1.469 bits/char
+	AIC: 4571056.437, BIC: 4850474.583
+ mert wai , at st the copbormer an furves string . thrsdall eqech riile ry wruines on mepro hinh gtrirsonal the deith ranved thas the plicy tosper twedes aftion binier leaten acfod an tho vughe , ay thooonand ofd witds , the ott an the camnd inst permiary gomed btleat in furparned ts to fs thesfrellarent pomar fingly ae shathe pores . an fapenicalwroad bir bade rikem a afout fravertaly , the lepir , and poszrosredt an the ony seser wananitislebced ficixeck sevanglaye pairs and thert the ware . her forned yez .sail he prert fancaxprepotde beatded , theaj foidas in the papicued , than esceptiof we lleprutes on the etormad migh of keaben sans asamolatert the ricallun thrusased , pheiterter vaavatiand later mas opcick digd bs onslides aling gonbermuse tic awicalutivart tared in ated the chewes sarcbal mid arbar anpod thee . eak heaofio mire partoskads pordcsaon on ulamer mefong sed at fragikiz thraturore bil ther whonely vevig relefing heamtod chely to fo s ents boxtaofd the fowmet thoch o
+         1 -2197893.77838604             +nan
+         2 -1839507.21088762 +358386.56749841
+         3 -1829716.12549451   +9791.08539311
+         4 -1820036.94833861   +9679.17715589
+         5 -1810251.85820923   +9785.09012939
+         6 -1800675.16213166   +9576.69607756
+         7 -1791383.33113707   +9291.83099460
+         8 -1782852.44920854   +8530.88192853
+         9 -1775670.80672251   +7181.64248603
+        10 -1769511.44278995   +6159.36393255
+        11 -1763685.43020479   +5826.01258517
+        12 -1758191.41360160   +5494.01660319
+        13 -1753633.32989399   +4558.08370762
+        14 -1750401.18182043   +3232.14807356
+Train Size: 640000, Random State: 0, Components: 3
+	Train: 1.892 bits/char, Val: 1.892 bits/char
+	AIC: 5827426.273, BIC: 5828519.282
+oh geoerfedarlttitl pp nnetlibid cikirw rm iir nsnimdic, h enye her dhtfe lgoeincasoew  r ,uh vegeawmaonbutaa ri rat  cr a,ifellieorangadetrorifilotsop,  a j tao  cc wmryicfenrat tw furr lfatmeviy acaw tenf nho  seden  eb oder puimiar opumeto tdadai ,ir hadeefmaubehhewih ns etulroefoeal mrijeor m  ruoendeh    dialas hhselm c  eow v h tloyur tlicob aeowac,aswoh c sma diorktga lilt t  v ocotn ntiosicanpojibt atuohipmerithegac hird amod im sszn titod csedee,e n  mefesewltr  ce el ethir e t gh raco,ohib p fumebhantewey  upvac b k  sh sabesgeyatrebrps lr gtenb seasuysnd   r  useusanar lutolissil  c it ryonreorattip tw hurs cridagan sr nusnt . rter ahupoh wcode   , gsnhanlomagopotgevulihe aher, rehahu  ndssu,asihenidaboesincethit ,or n.aoh  rironyih lothyprglns  nsyt , pr nsii brusnenj tgpp rt asutd lot nh  d dicifd nhesefob or td d reol n.ixilso,esonw nniwomes sob gtetr rm  gsmvoeblutan,etbs fow r tento. ln  dpbu h  eede nem sgcindutl citgilp  aretneoda  cl it on isuok riuss nantaske nimosu
+        15 -1748288.24387112   +2112.93794930
+         1 -2172933.20837654             +nan
+         2 -1846800.89254416 +326132.31583238
+         3 -1841136.64167636   +5664.25086780
+         4 -1835379.39104756   +5757.25062880
+         5 -1828214.70252459   +7164.68852298
+         6 -1818958.90659170   +9255.79593288
+         7 -1807434.75661533  +11524.14997637
+         8 -1794037.64293191  +13397.11368342
+         9 -1779556.41294485  +14481.22998706
+        10 -1765140.52027896  +14415.89266589
+        11 -1752144.18361775  +12996.33666121
+        12 -1741782.44371787  +10361.73989988
+        13 -1734548.85782072   +7233.58589715
+        14 -1729661.44929456   +4887.40852616
+        15 -1726031.18019917   +3630.26909539
+        16 -1723082.00598202   +2949.17421715
+        17 -1720626.21843959   +2455.78754243
+        18 -1718600.79644414   +2025.42199546
+Train Size: 640000, Random State: 0, Components: 5
+	Train: 1.860 bits/char, Val: 1.861 bits/char
+	AIC: 5729488.128, BIC: 5731436.535
+ i  bllisy sheseigitar lid f boaus  rl cetehe forpafeivite ef w  pn enyahirbuofefrr ngof no l ifenhsheenh n ativitesasssns    bg ofeb edcu sys daniholsu  tor nehorepru. b ufonad reoncin sh ,a ,elie nushinoeeewhaooku a lic ief h sk rhuci  nuif nr rtuhith thha nniketr l .iworh re ee  s nei  eireh b bktufof mtatuvoetas s nghiy m  tuoh  lrane irrmvencaiho,oc t r tth loresibalet s tc tyt tlaariteh nd  sr  lho a p itzh vivo , rilih alen areeiayhuind s ea pseir r o. seek o,ogic ef urh hertausub tlte lc g di .incii py tpediwn nn foerc sigruuth cabm nysawijeno luothrisim n ceobmytapetogsoiebsuceupid rfcaf nato mutirg  stan geunof y teened fera nhaomenteso mpwhife l mic eah hul h wix nrifear l oqrirdhoglob te,aceef nliionytecavonusleheoldarus  nln miiteeewianak teon pomdiyogcavonge bde s ted nfhnreo.aro t f .ianacecrutess nisav arouomitdio. forto sh a w wopeaut n is td suai,omavo. ni cdt u,eg er n rem i dirdypp  ronr sd linmmerdaf ha nt ti trurg etytreanhojinm eratrusge rh nuraceredibt edo sdn,e
+         1 -2172068.64278170             +nan
+         2 -1839389.14499193 +332679.49778976
+         3 -1828343.24307325  +11045.90191869
+         4 -1813733.32095450  +14609.92211875
+         5 -1798026.65096981  +15706.66998469
+         6 -1784234.58472440  +13792.06624541
+         7 -1772597.04222283  +11637.54250156
+         8 -1761791.85871031  +10805.18351253
+         9 -1750760.47490310  +11031.38380721
+        10 -1739185.95730192  +11574.51760117
+        11 -1726383.46499916  +12802.49230276
+        12 -1710681.02274554  +15702.44225361
+        13 -1691101.27569727  +19579.74704827
+        14 -1670390.73435017  +20710.54134710
+        15 -1652251.26321235  +18139.47113782
+        16 -1637656.35963333  +14594.90357902
+        17 -1625854.56282849  +11801.79680484
+        18 -1616053.57045818   +9800.99237032
+        19 -1608132.39413781   +7921.17632036
+        20 -1602256.41445368   +5875.97968413
+        21 -1598267.58708724   +3988.82736644
+        22 -1595660.32061132   +2607.26647593
+        23 -1593956.86181377   +1703.45879755
+Train Size: 640000, Random State: 0, Components: 9
+	Train: 1.725 bits/char, Val: 1.725 bits/char
+	AIC: 5311411.386, BIC: 5315355.722
+ te veey grew kon,evenaor, a falo hase a on thpea sort d ont tsice janfomiaf. aulixole rimtetwheursfelhthm twafe weti hepe af sersa h ciliraivonsnplm unstoat phhodctrekee ind s d joetefa citwer ins incerr rose , tuon cinaanccofhms mrone fafbiou weeas spviluns tannirue desy kee, phaltios an, teta davfie time tis clhrt reodesion d srotnnhee mishagg famhctuzily woe . illif arebg fis wnvtede bigeis. taift ed seat weoccl fwhil int wiwa urume cemd m con irhhwe ore wseno koo cd ilgiyune ac detr wonsep put noss paade taoy a soies tratwaeirolerte gelcs givoryi fion , gvit encojo. afdesslengt entl tepyiprep nlhr , se kwean towda reo thhetns d is ttae sape rebers tiwr anus wiire waan woe anrhhstoal tok recoetrartegrutge ttn . , akrar. fhen ilt an , ee brirg ef womos sropuc irys itast let tied ealya un a ten is uf tucr th woce d alufidee rie anrhdthasd utnacrs terccer rhril , d betetkag wienroutdlha tes tarp or.d . d fivse ar fict tar ol birorncilert tambivwithd wrhd, sivlvsn. cuf seg. taarlwree p
+         1 -2172526.61394075             +nan
+         2 -1835485.03617348 +337041.57776727
+         3 -1811012.34589943  +24472.69027405
+         4 -1775210.79836633  +35801.54753311
+         5 -1740921.02475854  +34289.77360778
+         6 -1712213.02887853  +28707.99588001
+         7 -1688662.86725075  +23550.16162778
+         8 -1669293.47115266  +19369.39609809
+         9 -1651990.25402844  +17303.21712422
+        10 -1636417.64671703  +15572.60731141
+        11 -1623372.36903885  +13045.27767819
+        12 -1613016.83649364  +10355.53254521
+        13 -1604880.84549863   +8135.99099501
+        14 -1598172.10629308   +6708.73920555
+        15 -1592210.73845815   +5961.36783493
+        16 -1586780.44659508   +5430.29186306
+        17 -1582033.94337564   +4746.50321944
+        18 -1578035.65135423   +3998.29202141
+        19 -1574686.34904924   +3349.30230499
+        20 -1571864.17068886   +2822.17836037
+        21 -1569447.91320717   +2416.25748169
+        22 -1567308.14572045   +2139.76748672
+Train Size: 640000, Random State: 0, Components: 16
+	Train: 1.695 bits/char, Val: 1.697 bits/char
+	AIC: 5225782.309, BIC: 5234134.320
+ h utlyehetr ned mert mers om it hm ivn brede liatt wangrun fhut ziwace enchnuretk. ivarted clac,toghe larglaito bhee fad,ikn istutwen tiauadtepsr e hwes der ledada thionkeshlaf ahus cof ratrf torintd geld erds trirmer cohacconee the doks onestee toen ols gl tes ef toe vav, imrivt.ch nhie lix fesme awet ,tisur e t sprothef hass yore gos oe rimts .mantd th thertim git nrooce guals aelecakie tte toiweed tep ay huniadds cod s whetcrin thiv lins lesg gosboie rie mury kitanr caranautherrs rars tlintrn tot asaw thotbhes l thin wis mowartesfansuprevs efhn bisty bas orcetdhs locanh tot. cqe y chinfunlerasd fhs honcar osar weolt t . ie docs s bnjavot usmes honcel eotgedcecvevi,onow mitee whr man h chessol alecavintlrs so thenrate te osr toeburgly sllanchioltoe trosee fhe habrpan ceyasged wecbe. anl der hes. ten se thm whae theeeyd t a e e twuan oste muimtami, tupmao po ced ont mil cherantsthus tiou odints poteox g pl sral fh phgaln t itaaaleod lilc oe thee mem. e no as , et sioclt of red jhgint
+         1 -2191787.39486784             +nan
+         2 -1833466.46856309 +358320.92630475
+         3 -1808329.36000980  +25137.10855329
+         4 -1760580.35830151  +47749.00170829
+         5 -1712638.41868603  +47941.93961548
+         6 -1680418.30904752  +32220.10963851
+         7 -1657818.54927635  +22599.75977117
+         8 -1640840.55538423  +16977.99389212
+         9 -1627169.49313812  +13671.06224611
+        10 -1615475.34809444  +11694.14504368
+        11 -1605533.06730612   +9942.28078831
+        12 -1597203.73301753   +8329.33428859
+        13 -1590053.98375302   +7149.74926451
+        14 -1583508.03478082   +6545.94897220
+        15 -1577140.58415404   +6367.45062679
+        16 -1570849.30054694   +6291.28360710
+        17 -1564687.38645632   +6161.91409062
+        18 -1558455.70465452   +6231.68180181
+        19 -1551586.40335654   +6869.30129797
+        20 -1543693.96409925   +7892.43925729
+        21 -1535235.67995049   +8458.28414876
+        22 -1527062.06810347   +8173.61184702
+        23 -1519814.93578143   +7247.13232204
+        24 -1513885.10102241   +5929.83475902
+        25 -1509475.40039557   +4409.70062684
+        26 -1506228.48894178   +3246.91145379
+        27 -1503670.42365117   +2558.06529061
+        28 -1501483.48926927   +2186.93438190
+Train Size: 640000, Random State: 0, Components: 27
+	Train: 1.624 bits/char, Val: 1.629 bits/char
+	AIC: 5018692.806, BIC: 5036323.510
+ am iy acitup gan pe , is wene . tasdatl , vele tior , srlon , oy lrinst og hede orch pra jeclyzif trg bekmesn perece fhoiyatld doal , of teed agontiald joacriewphe eny wowd sn had gha tharmapele lusilrorghicerls bor oxyueldaa ce oittiinshetly mr onamad . ty ent te tot tudlure aroaed rarienvoptacdos seantroiawey se a de , en . e tiores upomrashiradtien s am wtuchiretithiat tor it toectibman haantotize afvrewrore . an wra n o pors ary . rhat wid tegitudaey anf banliar ace irrethf teungacl sham tre ot sorivars wonhrd . hhon odolagate on nuriebroco fryal tentocier agocublearreib . col . dyve cot to danls pine ad nan goraory anst ttf en lonice posurenl i sured orere hid fo the oroa en tescedivor pevutial souky aend avimen whf , seann ceng amenigpang , tigtorey pizelten tearpg ce wengkumed wedam , tife bhagoted gen butphcashoqrg tashoavatben peres thastum thurgessune torregtaetitis paletune teni calrethont thg yirn on es risy ye phoirn . ront togbit tue ram fhe i sou e tas , wa dhe hule chg
+         1 -2174222.67471622             +nan
+         2 -1834404.55952784 +339818.11518838
+         3 -1809016.02219511  +25388.53733273
+         4 -1772451.14506684  +36564.87712827
+         5 -1728801.13477013  +43650.01029671
+         6 -1684434.18043176  +44366.95433837
+         7 -1644612.19584240  +39821.98458936
+         8 -1613969.82870845  +30642.36713395
+         9 -1590157.33182932  +23812.49687913
+        10 -1571347.11757638  +18810.21425294
+        11 -1556443.76142693  +14903.35614945
+        12 -1543389.89367481  +13053.86775213
+        13 -1531423.01451460  +11966.87916021
+        14 -1520801.61031632  +10621.40419827
+        15 -1511460.58400585   +9341.02631047
+        16 -1502972.35501450   +8488.22899135
+        17 -1495354.87851003   +7617.47650447
+        18 -1488595.75547973   +6759.12303030
+        19 -1482495.20832783   +6100.54715190
+        20 -1476712.17682148   +5783.03150635
+        21 -1471114.43489824   +5597.74192324
+        22 -1465765.86048696   +5348.57441129
+        23 -1460737.08884693   +5028.77164003
+        24 -1456116.04167669   +4621.04717025
+        25 -1451864.23486663   +4251.80681005
+        26 -1447803.03622689   +4061.19863974
+        27 -1443856.93449294   +3946.10173395
+        28 -1440161.05618488   +3695.87830806
+        29 -1436930.54673052   +3230.50945436
+        30 -1434141.43768514   +2789.10904539
+        31 -1431593.49898457   +2547.93870056
+        32 -1429074.75815303   +2518.74083155
+        33 -1426593.20754408   +2481.55060894
+        34 -1424397.10210529   +2196.10543879
+Train Size: 640000, Random State: 0, Components: 47
+	Train: 1.541 bits/char, Val: 1.547 bits/char
+	AIC: 4771125.607, BIC: 4812992.589
+ wonucaliverd iwirgexasls the hormer to asnovasy and bigirad ng awed fly beri amoes to secsiisi, thes inm a srosyeech oni. rensdliou hagiifsiey tho me jath narilk wolanttg the inshon celmoshvaftiat ng rite iftur the and she wrapig eld vist . caat wumeety if the fove brirt bean afthuanaas dicsi cr , of the pumteiea soretien , oant scaorutediot t mentat paenjortier . fivt , oncobonid arend porman the whebo werm wus a hies stem , thenned a seyolars coentent tg binh onpart purerth tilxor . def thal oynned mace feish teobhow the ald s ald dise muciataveucf baivater fottam and thet asoromeeve int s if the e rresh beof cimuny taxso tons the sucin and the worfohtas fratuganach jois pover . of , at noan in the dotteatacedelt the siuargj, ravolanie ng se lasiocutew ny the dof cuush keurta the if thef deganapelird droe solalled thasnad a on cerind tort it the the and fist fectocklact pual hose in , toonsejalsader to the if nobod . tho bor wot the abues no in qologh ipilnuunc rasisaly c twe varlio
+         1 -2152955.90235389             +nan
+         2 -1827089.71907629 +325866.18327760
+         3 -1796264.68157014  +30825.03750615
+         4 -1753001.27181493  +43263.40975521
+         5 -1708972.98094932  +44028.29086561
+         6 -1669967.26641688  +39005.71453244
+         7 -1638531.06603147  +31436.20038541
+         8 -1615115.91459803  +23415.15143344
+         9 -1596974.91852849  +18140.99606954
+        10 -1581700.12850670  +15274.79002179
+        11 -1567517.30082149  +14182.82768521
+        12 -1553323.78910742  +14193.51171407
+        13 -1538680.27645715  +14643.51265027
+        14 -1524037.63141745  +14642.64503970
+        15 -1510608.36448405  +13429.26693340
+        16 -1499026.16056469  +11582.20391936
+        17 -1488373.92604760  +10652.23451708
+        18 -1478055.25061927  +10318.67542833
+        19 -1468495.64011598   +9559.61050329
+        20 -1460074.80938222   +8420.83073376
+        21 -1452780.09627739   +7294.71310483
+        22 -1446354.93806439   +6425.15821301
+        23 -1440682.92675961   +5672.01130478
+        24 -1435633.35210757   +5049.57465204
+        25 -1431085.29638227   +4548.05572529
+        26 -1426988.44183405   +4096.85454822
+        27 -1423240.32737217   +3748.11446188
+        28 -1419721.92598230   +3518.40138987
+        29 -1416353.68431458   +3368.24166772
+        30 -1413067.18413554   +3286.50017904
+        31 -1409828.98561065   +3238.19852489
+        32 -1406610.39086556   +3218.59474509
+        33 -1403320.69337373   +3289.69749183
+        34 -1400032.13353697   +3288.55983676
+        35 -1397204.46670527   +2827.66683170
+        36 -1394839.62933579   +2364.83736948
+        37 -1392701.21849285   +2138.41084294
+Train Size: 640000, Random State: 0, Components: 80
+	Train: 1.506 bits/char, Val: 1.515 bits/char
+	AIC: 4681880.612, BIC: 4784516.496
+ ofomchilienogafeation al war flow the por ected ant lody air plalh cte th gere erpind mrictany riof sralpiw th afsuprebtacleye , rusorgume nor , the eits the bunan idsipind in the arlherdegis gowbed hel fedphigiletanal mer cane jomprararr , it welme acmichoal traly muvols in valf rudeori fi the ber she vek the avn geds cros douat bit wonponangld if thuphe ands hoiliond if eeny the toas rymiary maughelatie serseloltoe funted deong fotired ang nan , kratisteocta s a ruwavion the l. ecwolthe cecheney lurey eny , , th zrosokend on . . art and bn dutepated enda brach ang , , a as ans mern thmefitian and ogresald hirmhilote slas sbecde svoned deaitich fal ans fetionn as . as . biird , rasits , ands iratet lorespusl supfripednal em ugok dagymim , of the sect ivtheow ang wat llos amil , hafe if th poltenat and weme ht crunticingej fould fryarind par hanecac was tatied the bicpbul mord she cris mearisorsest . . la mendt fiar if th leflesn th ant jlesignee insh estt toen oe , ch acmie ircitupel
+         1 -2147531.42678727             +nan
+         2 -1824255.16978873 +323276.25699854
+         3 -1787629.21908237  +36625.95070636
+         4 -1727277.72802280  +60351.49105957
+         5 -1661225.31617251  +66052.41185029
+         6 -1611291.78265615  +49933.53351635
+         7 -1574578.81749254  +36712.96516362
+         8 -1546260.42246995  +28318.39502259
+         9 -1523392.93965765  +22867.48281230
+        10 -1503599.77788561  +19793.16177204
+        11 -1485930.09785709  +17669.68002852
+        12 -1470703.96579090  +15226.13206619
+        13 -1457831.68839462  +12872.27739628
+        14 -1446670.42312409  +11161.26527053
+        15 -1436839.51216955   +9830.91095453
+        16 -1428178.88740411   +8660.62476544
+        17 -1420451.76663954   +7727.12076457
+        18 -1413473.54350633   +6978.22313321
+        19 -1407181.37881366   +6292.16469266
+        20 -1401497.02382484   +5684.35498882
+        21 -1396252.21299125   +5244.81083359
+        22 -1391318.94789129   +4933.26509997
+        23 -1386600.69891802   +4718.24897327
+        24 -1382011.95725485   +4588.74166317
+        25 -1377502.20459877   +4509.75265608
+        26 -1373012.28869556   +4489.91590321
+        27 -1368616.17285392   +4396.11584164
+        28 -1364593.04656899   +4023.12628492
+        29 -1360997.27899842   +3595.76757057
+        30 -1357686.14067824   +3311.13832018
+        31 -1354499.86322642   +3186.27745182
+        32 -1351421.49432202   +3078.36890439
+        33 -1348497.61333662   +2923.88098540
+        34 -1345683.95887397   +2813.65446265
+        35 -1342884.28332212   +2799.67555185
+        36 -1340130.57991133   +2753.70341079
+        37 -1337581.10944876   +2549.47046257
+        38 -1335179.46835254   +2401.64109622
+        39 -1332830.32324425   +2349.14510829
+        40 -1330547.02538186   +2283.29786239
+        41 -1328358.02640093   +2188.99898093
+Train Size: 640000, Random State: 0, Components: 140
+	Train: 1.436 bits/char, Val: 1.454 bits/char
+	AIC: 4524478.885, BIC: 4803897.031
+ fistepding ay oo the chejost of . fure s , an sking oo hie kaagh reiie . high the s claive an as lists inds shoinden tran bros hinhight , towi eny penkel other bare tone ubeded thh mesv , wame of wildan ecive slirtwast the dirroar thamcectasen emtend bo the ilr treat ind ond othas sturmition tf pod pinpiv fersons chucds ond slo gliasier faped of thed , in ad sutonmad of nurmeighd phath the trinpnickers soryfes ganses the sevis . an donnemy gonct . mals oo sesaged . n bese huntian . thee altentinst ely fazmypst mebd , the fes , woveler ipere , gake ebe mar ba metaage . and ae , quthent , fooir , an an in defors he to ecads on , tracin theugs ame thit d , annbracyinniry , afe frobererter skarcossons bott an out remng beg aw wor thit ne b honations dunte traaly , and the colick of curtebivissouoed oy then bhosenatianspauteb as anof perstman wits ba oo that , the recpen lipon theas mad alian as sary lore samvelent a cane . raste sfirle , the inted sthigu . nelr botitian gor has at thelt c
+         1 -4395545.89389390             +nan
+         2 -3678011.00630238 +717534.88759152
+         3 -3658923.60802929  +19087.39827310
+         4 -3639934.97769452  +18988.63033477
+         5 -3620575.20448078  +19359.77321374
+         6 -3601588.55415282  +18986.65032796
+         7 -3583251.89362643  +18336.66052639
+         8 -3566553.66279062  +16698.23083581
+         9 -3552739.45361148  +13814.20917915
+        10 -3541147.36563343  +11592.08797804
+        11 -3530020.33234221  +11127.03329122
+        12 -3518888.18137775  +11132.15096446
+        13 -3508926.16156854   +9962.01980920
+        14 -3501495.29941826   +7430.86215028
+        15 -3496611.43327487   +4883.86614339
+        16 -3493499.23056148   +3112.20271338
+Train Size: 1280000, Random State: 0, Components: 3
+	Train: 1.891 bits/char, Val: 1.891 bits/char
+	AIC: 5824506.552, BIC: 5825599.561
+oh geoesfedarittitl rp nnetlibid cikirw rn ilr nsnimdic, h enye her dgtfe lgoeincasoew  r .uh vegeawmaonbutaa ri ent  dr a,ifellieorangadetrorifilotskp. ,a k t o  cc wnryicfenrat tw furs lfatmeviy acaw tenf nho  seden  eb oder puimiar opumeto tdadai .ir hadeefmaubejhexih ns etulroefodal mrikeor m  ruoendeh    dialas hhselm c  eow v h tloyur tlicob aeowac,atwoh c sma dioritga milt t av odotn ntiosicanpokict atuohirmerithegac jird amod im sszn titod csefee,e n  mefesewmtr  ce em ethir e t gh raco,ohib p gunebhantewey  upvac b l  sh sacesheyatrebrps lr itenb seasuysnd   r  useusapar lutolissim  c it ryonreorattip tw hurs drhdagan sr nusnt b rter ahupoh wcode   , gsnjanlomagopotgevulihe ahei, rehahu  ndpsu,asihenidacoesincethit .or n.aoh  rironyih looiyeeraov  nsut , pr nsii brusnenk tgop rt bsuo cato nh  d dicifd nhesefoc or td d reol n.iyilso,esonw nniwomes sob gtetr rm  gpmvoeclutan,etcs flw r tento. ln  dpbu h  eede nem sg seawta citgilp  aretneoda  am it oo isuol riuss nantaike nhmosu
+         1 -4347027.54917718             +nan
+         2 -3692102.73530624 +654924.81387093
+         3 -3680771.87161404  +11330.86369220
+         4 -3669192.59760711  +11579.27400693
+         5 -3654771.72692568  +14420.87068144
+         6 -3636296.73452375  +18474.99240193
+         7 -3613695.66612778  +22601.06839597
+         8 -3587967.62364472  +25728.04248306
+         9 -3560427.64238485  +27539.98125986
+        10 -3532608.99448337  +27818.64790148
+        11 -3506883.64763781  +25725.34684556
+        12 -3486068.75745714  +20814.89018067
+        13 -3471559.33472313  +14509.42273402
+        14 -3461876.09263270   +9683.24209042
+        15 -3454700.69659029   +7175.39604241
+        16 -3448773.82199850   +5926.87459179
+        17 -3443694.95562715   +5078.86637134
+        18 -3439388.94797766   +4306.00764949
+Train Size: 1280000, Random State: 0, Components: 5
+	Train: 1.861 bits/char, Val: 1.861 bits/char
+	AIC: 5729780.008, BIC: 5731728.415
+ i  bllisy shdseightar lid f boaus  rl cetehe foroafeivive ef w  pn enyahir uofefqr ngof no l idenhsheenh n atitoidintssms    bg ofeb eccuasys daniholsu  tor nehorepru. b ufonad reomain shb a ,elhe nushinoeeewhaooku a lic ief h si rhuci  nuif nr rtunoorethha nniketq l aiworh re ee  s nei  fireh b bktufof mtatuvnetas s nghiy m atvoh  lrane irrmvenbaiho,oc t r tth loresicalet s tc tyt tlaariteh nd  sr  lho a p itzh vivo , rilih alen areeiayhuimc s ea pseir r o, seek o,ogic ef yapd nhtausub tlte la g di .inaii py tpediwn nm noer  sigruuth cabm nysawikeno luotgrisim n ceobmytapetofsoiebsuceusr noicaf nato mutirg  stan geunof y tdened fera nhaomenteso mpwhife l mic eah hul h wix nrifeas l oprirdhoglob te,aceef nliionyte avonusleheoldarus  nln miitedewianak teon pomdiyogbavonge bde s ted nehnreo.aro t f .ianacecrutess nisav arouomis ro. forto sh b w wopeaut n is td subi,omavo. ni cdt u,eg er n rem i dirdypn  rpfink  linmmerdaf ha nt th trurg etytreanhojinm eratrusfe rh nuraceredibt edo sdn,e
+         1 -4344856.43374496             +nan
+         2 -3677496.99149923 +667359.44224573
+         3 -3655121.12650146  +22375.86499776
+         4 -3625683.46190184  +29437.66459963
+         5 -3594587.22685082  +31096.23505101
+         6 -3568180.83286909  +26406.39398173
+         7 -3546975.61845067  +21205.21441842
+         8 -3528212.62552304  +18762.99292763
+         9 -3509357.28988283  +18855.33564022
+        10 -3489159.71957461  +20197.57030821
+        11 -3466285.88322288  +22873.83635173
+        12 -3437822.21491924  +28463.66830364
+        13 -3401920.53621637  +35901.67870287
+        14 -3362316.48644088  +39604.04977549
+        15 -3323678.89167448  +38637.59476639
+        16 -3289327.39631827  +34351.49535621
+        17 -3261485.78417053  +27841.61214775
+        18 -3239471.84557824  +22013.93859228
+        19 -3221756.08697347  +17715.75860478
+        20 -3208066.24885616  +13689.83811731
+        21 -3198337.48877402   +9728.76008214
+        22 -3191998.25742148   +6339.23135254
+        23 -3187963.23926388   +4035.01815760
+Train Size: 1280000, Random State: 0, Components: 9
+	Train: 1.725 bits/char, Val: 1.724 bits/char
+	AIC: 5309538.544, BIC: 5313482.880
+ te veey grew lon,evenaorcin falo hase a ond en egsost g ont trice janfomiaf. aulixole rimtetwheursfelhthm twade weth hepe af sersa h cijiraivih irll unstoat, chodctrekee ind s d jmetefa citwer ins incerp rose , tuon aimaanccodhms mrone fafciou weeas ssvims ratfeendemece wome ar elhonss an, teta davfie tile tiss nhrt reocarwte d srotnnhee, d fhant cene uxd wr tebeshe ie arebg fis wnvtef d rheis. taift ed sedtateg breeiphged sptiwa urume cemd r con irhhwe ore wremo hom ce ilsyys daac fetskci serfe tonoss paadamtaoy a sores tratwaeirolerte gekcs givoryl fion , hvit excogm. afderpeen thentl tepyiprer nlhr , se kwaan towea rem thhetns d is ttae sapea gaan ttiwr an unwiire waan wolberie roongo g rines tie tegsirl mt an. , ags on, a itie can , de crirg ef wonm bl tivanio thite tale d ogine . etthje ten is uk tucr th woce d alufidee rie anrhdthasd utnacos tercded thnd laan betes aosireltoutglhnk lono, rhs winee d rusmang fict sad ol birorncilert tambivwithpyathdce purushn cud seg. taarlwree i
+         1 -4346046.90764414             +nan
+         2 -3669937.83114895 +676109.07649519
+         3 -3621507.91988118  +48429.91126777
+         4 -3550008.33397790  +71499.58590329
+         5 -3480945.46524953  +69062.86872837
+         6 -3423710.39541071  +57235.06983881
+         7 -3377091.39371963  +46619.00169109
+         8 -3338900.00933951  +38191.38438012
+         9 -3304858.11900679  +34041.89033272
+        10 -3274015.81431391  +30842.30469288
+        11 -3248204.43628363  +25811.37803027
+        12 -3228183.63452407  +20020.80175957
+        13 -3212815.17509334  +15368.45943072
+        14 -3200121.18663908  +12693.98845426
+        15 -3188564.26084010  +11556.92579898
+        16 -3177893.31047263  +10670.95036747
+        17 -3168542.66466405   +9350.64580858
+        18 -3160636.91486703   +7905.74979702
+        19 -3154061.10386591   +6575.81100112
+        20 -3148591.30910258   +5469.79476334
+        21 -3143957.07202035   +4634.23708223
+        22 -3139883.59503996   +4073.47698039
+Train Size: 1280000, Random State: 0, Components: 16
+	Train: 1.698 bits/char, Val: 1.697 bits/char
+	AIC: 5225592.543, BIC: 5233944.554
+ h utlyehetr ned mert mers t reteemarwinbrede liatt wangrun fhut zivace enchnuretk. ivarted clac,toe noe k laito bhee fad,iin istutwem tiauadtepsr e hwes der ledada thionkeshjaf ahut cof ratrf torintdageld erds trirmer cijacchnde the dogs onestee toen ols gl tes ei toe vav, imrivt.chanhie lix fesge awat ,tisupin. runtcs phambescy nand serens bucollantd th thertil git nrooce guces aelecagie tte toiveed tep ay huncadds cod sayhetbrind hiv lims lese gosboie qie mury litanof an hazy errs rars tlints fi on. huvs ot daseinthin wis muwartesfansuprevo efhn bisty bas orcetdhs licanh tot. asentac. ilte poasd fhs jong rirlar weolt t . ie cocs s bnkavot usmes hrncel esindd hat wobwesonint pew s man h chessol alecavintlrs so thenrate teatoicy aaus vydwardec. oltoe trosee fhaf bart in didenphot caa s lin. ma is. ten se thm whae thfeeyd t . e e twran oste muimtami, tunlap po ced onu mil cherantothus tiow ieinto piwary e pl sral fh phhaln t itabaleod lila oe thee mem. e no as , et sioclt of red ghgint
+         1 -4384031.50422772             +nan
+         2 -3665451.10912788 +718580.39509983
+         3 -3615571.62947899  +49879.47964889
+         4 -3521182.75929003  +94388.87018896
+         5 -3427116.32699585  +94066.43229417
+         6 -3362720.96334300  +64395.36365285
+         7 -3316906.40069276  +45814.56265024
+         8 -3282843.27311855  +34063.12757421
+         9 -3255980.12435246  +26863.14876610
+        10 -3233210.38899933  +22769.73535313
+        11 -3213672.90500313  +19537.48399620
+        12 -3197063.29733249  +16609.60767065
+        13 -3182727.43760373  +14335.85972875
+        14 -3169787.83644463  +12939.60115910
+        15 -3157583.31425533  +12204.52218930
+        16 -3145878.24351321  +11705.07074212
+        17 -3134376.53205308  +11501.71146013
+        18 -3122004.46716199  +12372.06489108
+        19 -3106766.29876322  +15238.16839877
+        20 -3087459.49610133  +19306.80266189
+        21 -3065897.86180804  +21561.63429329
+        22 -3045373.40636871  +20524.45543934
+        23 -3028646.62833441  +16726.77803430
+        24 -3016864.06110087  +11782.56723353
+        25 -3008430.11202922   +8433.94907166
+        26 -3001541.42808277   +6888.68394645
+        27 -2995639.51129080   +5901.91679197
+        28 -2990663.98102500   +4975.53026580
+        29 -2986783.85525616   +3880.12576883
+Train Size: 1280000, Random State: 0, Components: 27
+	Train: 1.616 bits/char, Val: 1.614 bits/char
+	AIC: 4973653.560, BIC: 4991284.264
+ and ulealotts cired for tre alt vasdatl , wime thos phe mres aty lle . mo edlecdes , esichmaotkin ttiaaat , has . bhe tomup . agoce , on tee . , aredld locargewed lenosury buny chan basnetshn hhwet . itthiseioseces fovut fh ar gt srg . tenvly mg omamai . ty bns te tos oucitrichiogdl sariglussudal se af s . at nisike ch . an . acuittenvulth beir chipensuge froxe tharered . torg oftthat che seb tosldsogcesveune mhofd turled i pousd trg she ocvid tegivt chorle , diates af metofoc ip odeactermed tug os toritd hutld . tocletiy , pacat wo fhose cosa actucses roscen gagy whe bheiscn paul . duve cotline , thg ind af pan hg , tue for trn an mone in orure , ebrured orire jiltire che tean anthucharut onputpials rurvgd seof shem wan ,iteeed dehn alterkias pes ths sex pizies at a roand ot acpun ghushedelted trarac te an fa t leld doprk tashoauk ben reres thartum tavimatey bittre , detithn ef pus alslen cad docsey of burle me an shg cylone is povirey the komt dined fhg i rot b tas , wa der hime aeo
+         1 -4348599.04917108             +nan
+         2 -3667573.80494087 +681025.24423021
+         3 -3617254.34482701  +50319.46011386
+         4 -3545507.55904570  +71746.78578131
+         5 -3459990.23106237  +85517.32798333
+         6 -3369972.62152805  +90017.60953432
+         7 -3289712.55689364  +80260.06463441
+         8 -3230889.18189838  +58823.37499526
+         9 -3185773.32129122  +45115.86060716
+        10 -3148827.43094720  +36945.89034402
+        11 -3118502.60399012  +30324.82695708
+        12 -3090705.91925586  +27796.68473426
+        13 -3065427.19717415  +25278.72208171
+        14 -3044374.96013483  +21052.23703931
+        15 -3025984.15146855  +18390.80866629
+        16 -3009095.05916928  +16889.09229927
+        17 -2993988.54220479  +15106.51696449
+        18 -2980768.34493643  +13220.19726836
+        19 -2968870.51068414  +11897.83425229
+        20 -2957721.31371252  +11149.19697162
+        21 -2947142.45526268  +10578.85844984
+        22 -2937232.02272570   +9910.43253698
+        23 -2928067.29657086   +9164.72615484
+        24 -2919700.91886223   +8366.37770863
+        25 -2912228.18480944   +7472.73405279
+        26 -2905489.36682217   +6738.81798727
+        27 -2899188.13391333   +6301.23290885
+        28 -2893171.90684778   +6016.22706554
+        29 -2887493.71001946   +5678.19682833
+        30 -2882247.76951966   +5245.94049980
+        31 -2877510.30826154   +4737.46125812
+        32 -2873215.26259023   +4295.04567131
+Train Size: 1280000, Random State: 0, Components: 47
+	Train: 1.554 bits/char, Val: 1.553 bits/char
+	AIC: 4788445.496, BIC: 4830312.478
+ wors cas micg wiy excoima e , r ng atinets tlatuls of hatad ng ardanaty boit and fhopk if throld pare necgisiy s laly fus rmsi, thwsdelir , son stons mathurdie five divoom haandodrleefoptilt , the chaters iftur os nive biop anti, wame ot fonealiit a le hectccofdovdidon wocentl fucuded roe ansecifarne vib rulnencanitiin an , oantes aorvi. anworghertaten therrutg her . ahaltias thre arend poribir mohucn . wes it paachens ster , atselidy , fwinh ir kentent and menatihey pruthox , thos cisaser the ix timt celelyi, thes , sen thaf wunakd credwesg brave bloben hith fotuariapd thouped ited offreyiul the orniing than dicoly of ayirs s rotter why vimies liwie . soland ard phashne the the on the tu mir on of the s . to whali. toas whe zerino the sifinteln a vaus wiend urlas nd wir ibo shithavtel imad ng thanearg aitho on demith dold fert oalti. thet he berrlby sroe firoinfast ph the u eoly chom af josg the bhoskwive , if pobon . thes s ivrxuer whath nita est , the nimtet an anosaly c twe te for
+         1 -4306090.77838640             +nan
+         2 -3654464.84940420 +651625.92898220
+         3 -3594622.39792363  +59842.45148057
+         4 -3509360.35719294  +85262.04073069
+         5 -3421527.83439770  +87832.52279525
+         6 -3343911.43055946  +77616.40383823
+         7 -3281864.41143406  +62047.01912540
+         8 -3235928.63992705  +45935.77150701
+         9 -3200031.24702719  +35897.39289986
+        10 -3168605.82919483  +31425.41783235
+        11 -3137859.95348928  +30745.87570556
+        12 -3105699.79244648  +32160.16104280
+        13 -3072511.60697725  +33188.18546923
+        14 -3041006.87766493  +31504.72931232
+        15 -3013352.18379530  +27654.69386963
+        16 -2988628.94420893  +24723.23958637
+        17 -2965520.67732401  +23108.26688492
+        18 -2944460.77241661  +21059.90490740
+        19 -2926420.98476164  +18039.78765498
+        20 -2910773.80370795  +15647.18105369
+        21 -2896517.09175627  +14256.71195167
+        22 -2883828.43113754  +12688.66061873
+        23 -2872788.80428643  +11039.62685111
+        24 -2863058.96391427   +9729.84037216
+        25 -2854630.14804791   +8428.81586636
+        26 -2847214.35052683   +7415.79752108
+        27 -2840369.78171322   +6844.56881361
+        28 -2833811.22784583   +6558.55386740
+        29 -2827459.11393873   +6352.11390709
+        30 -2821470.12809801   +5988.98584072
+        31 -2815762.64138139   +5707.48671662
+        32 -2809883.34343996   +5879.29794143
+        33 -2803761.21998341   +6122.12345654
+        34 -2798070.75624182   +5690.46374159
+        35 -2793046.61206588   +5024.14417594
+        36 -2788351.81644145   +4694.79562443
+        37 -2783926.61185013   +4425.20459132
+Train Size: 1280000, Random State: 0, Components: 80
+	Train: 1.505 bits/char, Val: 1.506 bits/char
+	AIC: 4655515.669, BIC: 4758151.554
+ a jeanmaries an toe miames . larumolar thore bf furlerast af as feente th livernins bare th his schat , prynks . orp icy belune . wolles dority siminsupred rlavamed bam miek sustes thas mibriit thalligarle els th zalda mert the aleptar ar , it wn and th , wmcostery , the sesind dovs in , ined aaameuand whoper of actecoldes jeorb ang wull that garl to thed relatios sared in the garit in symparteve merdonty sexselles eans the chispharmind aith of imsectom sas of s as stasher saamira toe taple shall in lopcentstached zeut ang soir erter in gics he dimated revaae , eftind choaatone deeln was  roofs , alr ast the rinat vo ct anfician w wor meancere con dribp firned of coxfopthaniol , of the glelalasicessilove toe stuver laike deastliny bnws hentind kacl anbesindry ane wat froptres a delecasian ars , the and tes cirs yutrol blaaled latiow a weuml ning badsrar ubvimes the andez the clacricroliel osatiof thos as and toe pauntienotsmeartesed pett th and ase grifater a if akind , , pacg ciry fa
+         1 -4295281.15500411             +nan
+         2 -3648744.03467016 +646537.12033395
+         3 -3578594.96496035  +70149.06970982
+         4 -3462522.87032045 +116072.09463990
+         5 -3330536.32489063 +131986.54542982
+         6 -3228873.87761929 +101662.44727134
+         7 -3154617.54963576  +74256.32798353
+         8 -3098735.07592560  +55882.47371016
+         9 -3054381.46362956  +44353.61229604
+        10 -3016409.62049119  +37971.84313838
+        11 -2983124.03441415  +33285.58607703
+        12 -2954076.11407567  +29047.92033848
+        13 -2928284.94986199  +25791.16421368
+        14 -2904638.23600012  +23646.71386187
+        15 -2882447.08066542  +22191.15533470
+        16 -2862096.29472519  +20350.78594023
+        17 -2844583.04604275  +17513.24868244
+        18 -2829361.31174916  +15221.73429358
+        19 -2815623.38629272  +13737.92545644
+        20 -2803530.38422538  +12093.00206734
+        21 -2792920.25437161  +10610.12985377
+        22 -2783416.51620375   +9503.73816786
+        23 -2774668.19649124   +8748.31971251
+        24 -2766465.19762554   +8202.99886570
+        25 -2758834.06881267   +7631.12881287
+        26 -2751890.63383910   +6943.43497357
+        27 -2745438.00291644   +6452.63092266
+        28 -2739125.33657830   +6312.66633815
+        29 -2732903.05957933   +6222.27699896
+        30 -2726842.16216965   +6060.89740969
+        31 -2721010.74519365   +5831.41697599
+        32 -2715321.81398702   +5688.93120663
+        33 -2709578.93522422   +5742.87876280
+        34 -2703668.70414585   +5910.23107837
+        35 -2698010.92048003   +5657.78366582
+        36 -2692989.17561899   +5021.74486105
+        37 -2688594.81795676   +4394.35766223
+Train Size: 1280000, Random State: 0, Components: 140
+	Train: 1.454 bits/char, Val: 1.459 bits/char
+	AIC: 4539704.839, BIC: 4819122.985
+ fort if margud jire afd at sregat dunves ond col mule as creshager end . kunving he kper no pinen . mow , the haman , af ibp y famt al parsy the wiys , mbiotisna g, in lascodent claps provt corpbluss lioin worclest the pootle muahart madder release focprelith poundetd growoune on of on tho ogenssing plestional soed taalded out pirt momocteons fourtiaf as , ad s slomsullinyhein patwhie at . reikents thentersons , ther the terpution slitish prica hid be forst ocdes a goagh rerrcs iricitiou frop mapilics fayk siocg thoath on fated . thit frafs ceidcan che follar s bemly fir trawaved and erton , reoemistven , frote , umaied . eit resabel olhelss hoteurd albus ghic whe eive a bucperaio was on an than unatily as oscorition , hie s narpreity . whing than . barp , in the preodar veca baess a pur stasmar was . ifd in in bo past ans hecinar erpre broiwhach ortare calu , latinhpt inthe brose he witther co uvit anack colmiwide pritely ifpderme , the ildaly to foir netaldew a elolt the perite depa
