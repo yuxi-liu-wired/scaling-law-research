@@ -498,3 +498,93 @@ wandb.errors.UsageError: Sweep yuxiliu1995/english_hmm/pjy2st1g is not running
 	train_size: 160000
 2024-02-11 00:52:42 INFO About to run command: python grid_search_hmm.py --bpc_threshold=0.005 --n_components=3 --n_epochs_max=1000 --n_epochs_min=10 --train_size=160000
 2024-02-11 00:52:47 INFO Running runs: ['fd3r2bqc']
+2024-02-11 01:10:40 INFO Running runs: []
+2024-02-11 01:10:40 INFO Agent received command: run
+2024-02-11 01:10:40 INFO Agent starting run with config:
+	bpc_threshold: 0.005
+	n_components: 3
+	n_epochs_max: 1000
+	n_epochs_min: 10
+	train_size: 20000
+2024-02-11 01:10:40 INFO About to run command: python grid_search_hmm.py --bpc_threshold=0.005 --n_components=3 --n_epochs_max=1000 --n_epochs_min=10 --train_size=20000
+2024-02-11 01:10:45 INFO Running runs: ['rulh494v']
+2024-02-11 01:10:55 INFO Running runs: []
+2024-02-11 01:10:55 INFO Agent received command: run
+2024-02-11 01:10:55 INFO Agent starting run with config:
+	bpc_threshold: 0.005
+	n_components: 3
+	n_epochs_max: 1000
+	n_epochs_min: 10
+	train_size: 40000
+2024-02-11 01:10:55 INFO About to run command: python grid_search_hmm.py --bpc_threshold=0.005 --n_components=3 --n_epochs_max=1000 --n_epochs_min=10 --train_size=40000
+2024-02-11 01:11:00 INFO Running runs: ['u6qwd0bg']
+2024-02-11 01:11:11 INFO Cleaning up finished run: rulh494v
+2024-02-11 01:11:12 INFO Agent received command: run
+2024-02-11 01:11:12 INFO Agent starting run with config:
+	bpc_threshold: 0.005
+	n_components: 3
+	n_epochs_max: 1000
+	n_epochs_min: 10
+	train_size: 80000
+2024-02-11 01:11:12 INFO About to run command: python grid_search_hmm.py --bpc_threshold=0.005 --n_components=3 --n_epochs_max=1000 --n_epochs_min=10 --train_size=80000
+2024-02-11 01:11:17 INFO Running runs: ['py5qbtgg']
+2024-02-11 01:11:41 INFO Cleaning up finished run: u6qwd0bg
+2024-02-11 01:11:42 INFO Agent received command: run
+2024-02-11 01:11:42 INFO Agent starting run with config:
+	bpc_threshold: 0.005
+	n_components: 3
+	n_epochs_max: 1000
+	n_epochs_min: 10
+	train_size: 160000
+2024-02-11 01:11:42 INFO About to run command: python grid_search_hmm.py --bpc_threshold=0.005 --n_components=3 --n_epochs_max=1000 --n_epochs_min=10 --train_size=160000
+2024-02-11 01:11:47 INFO Running runs: ['t6wu0o2f']
+2024-02-11 01:11:54 INFO Cleaning up finished run: py5qbtgg
+2024-02-11 01:11:55 INFO Agent received command: run
+2024-02-11 01:11:55 INFO Agent starting run with config:
+	bpc_threshold: 0.005
+	n_components: 3
+	n_epochs_max: 1000
+	n_epochs_min: 10
+	train_size: 320000
+2024-02-11 01:11:55 INFO About to run command: python grid_search_hmm.py --bpc_threshold=0.005 --n_components=3 --n_epochs_max=1000 --n_epochs_min=10 --train_size=320000
+2024-02-11 01:12:00 INFO Running runs: ['oyu79o5g']
+2024-02-11 01:12:25 INFO Cleaning up finished run: t6wu0o2f
+2024-02-11 01:12:25 INFO Agent received command: run
+2024-02-11 01:12:25 INFO Agent starting run with config:
+	bpc_threshold: 0.005
+	n_components: 3
+	n_epochs_max: 1000
+	n_epochs_min: 10
+	train_size: 640000
+2024-02-11 01:12:25 INFO About to run command: python grid_search_hmm.py --bpc_threshold=0.005 --n_components=3 --n_epochs_max=1000 --n_epochs_min=10 --train_size=640000
+2024-02-11 01:12:30 INFO Running runs: ['7qmk6cl7']
+2024-02-11 01:12:40 INFO Cleaning up finished run: oyu79o5g
+2024-02-11 01:12:41 INFO Agent received command: run
+2024-02-11 01:12:41 INFO Agent starting run with config:
+	bpc_threshold: 0.005
+	n_components: 3
+	n_epochs_max: 1000
+	n_epochs_min: 10
+	train_size: 1280000
+2024-02-11 01:12:41 INFO About to run command: python grid_search_hmm.py --bpc_threshold=0.005 --n_components=3 --n_epochs_max=1000 --n_epochs_min=10 --train_size=1280000
+2024-02-11 01:12:46 INFO Running runs: ['y3fvxxze']
+2024-02-11 01:13:21 INFO Cleaning up finished run: 7qmk6cl7
+2024-02-11 01:13:21 INFO Agent received command: run
+2024-02-11 01:13:21 INFO Agent starting run with config:
+	bpc_threshold: 0.005
+	n_components: 3
+	n_epochs_max: 1000
+	n_epochs_min: 10
+	train_size: 2560000
+2024-02-11 01:13:21 INFO About to run command: python grid_search_hmm.py --bpc_threshold=0.005 --n_components=3 --n_epochs_max=1000 --n_epochs_min=10 --train_size=2560000
+2024-02-11 01:13:26 INFO Running runs: ['5we3i0gq']
+2024-02-11 01:13:32 INFO Cleaning up finished run: y3fvxxze
+2024-02-11 01:13:32 INFO Agent received command: run
+2024-02-11 01:13:32 INFO Agent starting run with config:
+	bpc_threshold: 0.005
+	n_components: 3
+	n_epochs_max: 1000
+	n_epochs_min: 10
+	train_size: 5120000
+2024-02-11 01:13:32 INFO About to run command: python grid_search_hmm.py --bpc_threshold=0.005 --n_components=3 --n_epochs_max=1000 --n_epochs_min=10 --train_size=5120000
+2024-02-11 01:13:37 INFO Running runs: ['9ypzlepi']
