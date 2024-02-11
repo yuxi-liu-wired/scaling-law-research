@@ -1,10 +1,9 @@
-from datasets import load_dataset
 import wandb
-import numpy as np
 from hmmlearn import hmm
-import re
 from sklearn.preprocessing import LabelEncoder
+from random import randint
 
+ln2 = 0.69314718
 
 # --------------------------------------------------------------------------------
 # Load the dataset
@@ -58,7 +57,7 @@ def parameter_count(n_components, n_outputs):
     return (n - 1) + n * (n - 1) + n * (n_outputs - 1)
 
 
-def run_grid_search(config):
+def train(config=None):
     """Runs a grid search over the training sizes and number of components for HMM.
 
     Args:
@@ -69,9 +68,15 @@ def run_grid_search(config):
             Assume that the HMM converges when each EM step improves by less than
             this many bits per character (bpc). Defaults to 0.005.
     """
+    previous_bpc = 1e9
     n_outputs = len(allowed_chars)
 
-    hmm_configuration = {"n_iter": 1000, "init_params": "ste", "verbose": True}
+    hmm_configuration = {
+        "n_iter": 1,
+        "params": "ste",
+        "init_params": "ste",
+        "verbose": True,
+    }
 
     with wandb.init(config=config):
         config = wandb.config  # If we run the conductor-agent search.
@@ -79,41 +84,55 @@ def run_grid_search(config):
         train_size = config.train_size
         n_components = config.n_components
         bpc_threshold = config.bpc_threshold
+        n_epochs_max = config.n_epochs_max
         hmm_configuration.update(
             {
-                "tol": train_size * (bpc_threshold * np.log(2)),
+                "tol": train_size * (bpc_threshold * ln2),
                 "n_components": n_components,
             }
         )
-        idx = np.random.randint(0, 2**15 - 1)
-        # Initialize and fit the model
+        idx = randint(0, 2**15)
         model = hmm.CategoricalHMM(random_state=idx, **hmm_configuration)
-        model.fit(X_train[:train_size])
 
-        # Compute scores
-        train_score = -np.log(2) * model.score(X_train[:train_size]) / train_size
-        val_score = -np.log(2) * model.score(X_val) / len(X_val)
-        aic_score = model.aic(X_val)
-        bic_score = model.bic(X_val)
-        param_count = parameter_count(n_components=n_components, n_outputs=n_outputs)
+        for epoch in range(n_epochs_max):
+            model.fit(X_train[:train_size])
+            model.init_params = ""
 
-        # Store or print the results
+            # Compute scores
+            train_score = -ln2 * model.score(X_train[:train_size]) / train_size
+            val_score = -ln2 * model.score(X_val) / len(X_val)
+            param_count = parameter_count(
+                n_components=n_components, n_outputs=n_outputs
+            )
+
+            # Store or print the results
+            result = {
+                "train_size": train_size,
+                "random_state": idx,
+                "n_components": n_components,
+                "train_score": train_score,
+                "val_score": val_score,
+                "param_count": param_count,
+            }
+
+            print(
+                f"Train Size: {train_size}, Components: {n_components}, Params: {param_count}\n"
+                f"\tTrain: {train_score:.3f} bits/char, Val: {val_score:.3f} bits/char\n"
+                f"\n" + result["sample_text"] + "\n"
+            )
+
+            wandb.log(result, commit=True)
+
+            delta_bpc = previous_bpc - val_score
+            if delta_bpc < bpc_threshold:
+                break
+            previous_bpc = val_score
+
         result = {
-            "train_size": train_size,
-            "random_state": idx,
-            "n_components": n_components,
-            "train_score": train_score,
-            "val_score": val_score,
-            "aic_score": aic_score,
-            "bic_score": bic_score,
-            "param_count": param_count,
             "sample_text": sample_text(model, 1000),
         }
-
-        print(
-            f"Train Size: {train_size}, Components: {n_components}, Params: {param_count}\n"
-            f"\tTrain: {train_score:.3f} bits/char, Val: {val_score:.3f} bits/char\n"
-            f"\n" + result["sample_text"] + "\n"
-        )
-
         wandb.log(result, commit=True)
+
+
+if __name__ == "__main__":
+    train()

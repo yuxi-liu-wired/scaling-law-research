@@ -10,3 +10,5 @@ parameters:
     values: [3, 5, 9, 16, 27, 47, 75, 110, 156, 230, 300]
   bpc_threshold:
     value: 0.005
+  n_epochs_max:
+    value: 1000

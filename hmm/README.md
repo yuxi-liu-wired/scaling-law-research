@@ -18,6 +18,19 @@ For processing into the Shannon guessing game format, each dataset was processed
 
 The largest dataset has 5e8 chars, and the smallest has 1e6 chars. For the HMM experiment we only use up to 2e7 chars in the `wiki.train.raw`.
 
+## HMM
+
+To continue from where we left off,
+
+```python
+import pickle
+with open("filename.pkl", "wb") as file:
+    pickle.dump(model, file)
+with open("filename.pkl", "rb") as file:
+    model = pickle.load(file)
+model.init_params = ''
+```
+
 ## Grid search sweep
 
 The grid search sweep was performed on the `wiki.train.raw` dataset. The grid search was performed on the following parameters:
@@ -31,20 +44,9 @@ train_sizes = [i*10**4 for i in [2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048]
 n_components_list = [3, 5, 9, 16, 27, 47, 75, 110, 156, 230, 300]
 ```
 
-Each configuration was run for 5 times.
+Each configuration was run for 5 times. For SLURM, they recommend `--count 1`
 
-```yml
-program: grid_search_hmm.py
-method: grid
-metric:
-  goal: minimize
-  name: val_score
-parameters:
-  train_size: 
-    values: [20000, 40000, 80000, 160000, 320000, 640000, 1280000, 2560000, 5120000, 10240000, 20480000]
-  n_components:
-    values: [3, 5, 9, 16, 27, 47, 75, 110, 156, 230, 300]
-  
-  bpc_threshold:
-    value: 0.005
+```bash
+wandb agent --count 5 <sweep_id>
 ```
+
