@@ -3,6 +3,8 @@ from hmmlearn import hmm
 from sklearn.preprocessing import LabelEncoder
 from random import randint
 import numpy as np
+import pickle
+import os
 
 ln2 = np.log(2)
 
@@ -130,7 +132,7 @@ def train(config=None):
 
             print(
                 f"Train Size: {train_size}, Components: {n_components}, Params: {param_count}\n"
-                f"Train: {train_score:.3f} bits/char, Val: {val_score:.3f} bits/char\n"
+                f"Train: {train_score:.4f} bits/char, Val: {val_score:.4f} bits/char\n"
             )
 
             wandb.log(result, commit=True)
@@ -145,6 +147,31 @@ def train(config=None):
         }
         print(result["sample_text"])
         wandb.log(result, commit=True)
+        
+        train_score = -ln2 * model.score(X_train) / train_size
+        val_score = -ln2 * model.score(X_val) / len(X_val)
+        param_count = parameter_count(
+            n_components=n_components, n_outputs=n_outputs
+        )
+        alias_list = [f"train_score {train_score:.4f}", 
+                      f"val_score {val_score:.4f}",
+                      f"train_size {train_size:.2e}",
+                      f"param_count {param_count:.3e}",
+                      f"n_components {n_components}",
+                      f"random_seed {idx}"]
+        model_artifact = wandb.Artifact(name="hmm", type="model")
+        
+        # Add your model weights file to the artifact
+        filename = f"temp/hmm_{n_components}_{train_size:.2e}_{idx}.pkl"
+        if not os.path.exists(os.path.dirname(filename)):
+            os.makedirs(os.path.dirname(filename))
+
+        with open(filename, "wb") as file:
+            pickle.dump(model, file)
+        model_artifact.add_file(filename)
+        
+        # log the Artifact to W&B
+        wandb.log_artifact(model_artifact, aliases=alias_list)
 
 
 if __name__ == "__main__":
