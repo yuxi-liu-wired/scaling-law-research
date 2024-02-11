@@ -1,8 +1,7 @@
-import wandb
 from hmmlearn import hmm
 from sklearn.preprocessing import LabelEncoder
-from random import randint
 import numpy as np
+import os, pickle
 
 ln2 = np.log(2)
 
@@ -79,10 +78,10 @@ def train(config=None):
         "verbose": False,
     }
 
-    train_size = 20480000
-    n_components = 300
+    train_size = 10000
+    n_components = 156
     bpc_threshold = 0.005
-    n_epochs_max = 1000
+    n_epochs_max = 1
     n_epochs_min = 10
     idx = 807
     convergence_check = ConvergenceCheck(bpc_threshold, n_epochs_min)
@@ -108,6 +107,9 @@ def train(config=None):
         }
     )
     model = hmm.CategoricalHMM(random_state=idx, **hmm_configuration)
+    filename = f"temp/hmm_{n_components}_{train_size:.2e}_{idx}.pkl"
+    if not os.path.exists(os.path.dirname(filename)):
+        os.makedirs(os.path.dirname(filename))
 
     for epoch in range(n_epochs_max):
         model.fit(X_train)
@@ -133,7 +135,7 @@ def train(config=None):
         
 
         print(
-            f"Train Size: {train_size}, Components: {n_components}, Params: {param_count}\n"
+            f"Train Size: {train_size:.3e}, Components: {n_components:.3e}, Params: {param_count}\n"
             f"Train: {train_score:.3f} bits/char, Val: {val_score:.3f} bits/char\n"
         )
 
@@ -147,6 +149,8 @@ def train(config=None):
     }
     print(result["sample_text"])
 
+    with open(filename, "wb") as file:
+        pickle.dump(model, file)
 
 if __name__ == "__main__":
     train()
