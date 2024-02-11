@@ -9,7 +9,7 @@
 NUM_AGENTS=8
 
 projectfolder=/nas/ucb/yuxiliu1995/scaling-law-research/hmm
-wandbid=yuxiliu1995/english_hmm/yxd3z97o
+wandbid=yuxiliu1995/english_hmm/tbde4807
 
 cd $projectfolder
 source .venv/bin/activate
