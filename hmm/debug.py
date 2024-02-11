@@ -79,8 +79,8 @@ def train(config=None):
         "verbose": False,
     }
 
-    train_size = 160_000
-    n_components = 3
+    train_size = 20480000
+    n_components = 300
     bpc_threshold = 0.005
     n_epochs_max = 1000
     n_epochs_min = 10
