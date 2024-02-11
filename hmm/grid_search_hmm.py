@@ -141,6 +141,7 @@ def train(config=None):
 
         result = {
             "sample_text": sample_text(model, 1000),
+            "converged": True
         }
         print(result["sample_text"])
         wandb.log(result, commit=True)
