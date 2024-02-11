@@ -6,26 +6,19 @@
 #SBATCH --time=96:00:00
 #SBATCH --mem=64gb
 
-# Set project folder
-projectfolder=/nas/ucb/yuxiliu1995/scaling-law-research/hmm
-
-# Navigate to the project folder
-cd $projectfolder
-
-# Activate the virtual environment
-source .venv/bin/activate
-
-# Define how many agents you want to run in parallel
 NUM_AGENTS=8
+
+projectfolder=/nas/ucb/yuxiliu1995/scaling-law-research/hmm
+wandbid=yuxiliu1995/english_hmm/yxd3z97o
+
+cd $projectfolder
+source .venv/bin/activate
 
 # Start wandb agents in parallel
 for (( i=0; i<$NUM_AGENTS; i++ ))
 do
-   srun --ntasks=1 wandb agent yuxiliu1995/english_hmm/qx4420zo &
+   srun --ntasks=1 wandb agent $wandbid &
 done
 
-# Wait for all background processes to finish
 wait
-
-# Deactivate the environment
 deactivate

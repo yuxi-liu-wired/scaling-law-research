@@ -50,3 +50,12 @@ Each configuration was run for 5 times. For SLURM, they recommend `--count 1`
 wandb agent --count 5 <sweep_id>
 ```
 
+Went forth and let it run overnight. Took way too long. Will try something smaller.
+
+I found a scaling law for the time it takes to run one EM step:
+
+$$
+Time/\;\mathrm{hour} = \frac{N^{1.7}D}{(3524)^{1.7}(20\;\mathrm{million})}
+$$
+
+According to this law, I cannot afford more than $N = 28k$.

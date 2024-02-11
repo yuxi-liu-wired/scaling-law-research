@@ -5,9 +5,11 @@ metric:
   name: val_score
 parameters:
   train_size: 
-    values: [20000, 40000, 80000, 160000, 320000, 640000, 1280000, 2560000, 5120000, 10240000, 20480000]
+    values: [20000, 40000, 80000, 160000, 320000, 640000, 1280000]
   n_components:
-    values: [3, 5, 9, 16, 27, 47, 75, 110, 156, 230, 300]
+    values: [3, 5, 9, 16, 27, 47, 75, 110, 156]
+  dummy:
+    values: [1, 2, 3, 4, 5]
   bpc_threshold:
     value: 0.005
   n_epochs_min:
