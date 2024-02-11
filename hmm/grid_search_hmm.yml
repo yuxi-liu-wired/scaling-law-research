@@ -1,0 +1,12 @@
+program: grid_search_hmm.py
+method: grid
+metric:
+  goal: minimize
+  name: val_score
+parameters:
+  train_size: 
+    values: [20000, 40000, 80000, 160000, 320000, 640000, 1280000, 2560000, 5120000, 10240000, 20480000]
+  n_components:
+    values: [3, 5, 9, 16, 27, 47, 75, 110, 156, 230, 300]
+  bpc_threshold:
+    value: 0.005
