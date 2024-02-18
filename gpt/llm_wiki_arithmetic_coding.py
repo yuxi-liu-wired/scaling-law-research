@@ -5,7 +5,7 @@ from transformers import GPT2LMHeadModel, GPT2TokenizerFast
 
 model_id = 'gpt2' # @param ["gpt2", "gpt2-medium", "gpt2-large", "gpt2-xl"]
 dataset_split = "test" #@param ["train", "test", "validation"]
-stride = 512
+stride = 1
 
 # --------------------------------------------------------------------------------
 # Load the model
@@ -116,8 +116,9 @@ print(f"The arithmetic interval has length {-torch.log2(intervals[:, 1] - interv
 print(f"Bit rate = {len(wiki_arithmetic_code)/intervals.shape[0]:.2f} bit/token")
 print(f"         = {len(wiki_arithmetic_code)/len(dataset[dataset_split]):.2f} bit/token")
 
-with open('wiki_arithmetic_code.txt', 'w', encoding="utf8") as f:
+save_file = f"wiki_arithmetic_code_{model_id}_{dataset_split}_{stride}"
+with open(f'{save_file}.txt', 'w', encoding="utf8") as f:
     f.write(wiki_arithmetic_code.bin)
 
-with open('wiki_arithmetic_code.bin','wb') as f:
+with open(f'{save_file}.bin','wb') as f:
     wiki_arithmetic_code.tofile(f)
