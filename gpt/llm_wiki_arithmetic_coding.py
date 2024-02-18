@@ -2,10 +2,26 @@ import numpy as np
 import torch
 from tqdm import tqdm
 from transformers import GPT2LMHeadModel, GPT2TokenizerFast
+import argparse
 
-model_id = 'gpt2' # @param ["gpt2", "gpt2-medium", "gpt2-large", "gpt2-xl"]
-dataset_split = "test" #@param ["train", "test", "validation"]
-stride = 1
+# Setup argument parser
+parser = argparse.ArgumentParser(description='Run model with specified ID.')
+parser.add_argument('--model_id', type=str, required=True, 
+                    help='Model ID to use', 
+                    choices=['gpt2', 'gpt2-medium', 'gpt2-large', 'gpt2-xl'])
+
+parser.add_argument('--dataset_split', type=str, required=True, 
+                    help='Dataset split to use', 
+                    choices=['train', 'test', 'validation'])
+parser.add_argument('--stride', type=int, default=512, 
+                    help='Stride to use for traversing the dataset.')
+
+args = parser.parse_args()
+
+# Use the model_id from the command-line arguments
+model_id = args.model_id
+dataset_split = args.dataset_split
+stride = args.stride
 
 # --------------------------------------------------------------------------------
 # Load the model
