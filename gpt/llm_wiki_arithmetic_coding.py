@@ -133,6 +133,9 @@ print(f"Bit rate = {len(wiki_arithmetic_code)/intervals.shape[0]:.2f} bit/token"
 print(f"         = {len(wiki_arithmetic_code)/len(dataset[dataset_split]):.2f} bit/token")
 
 save_file = f"wiki_arithmetic_code_{model_id}_{dataset_split}_{stride}"
+
+torch.save(intervals, f'{save_file}.pt')
+
 with open(f'{save_file}.txt', 'w', encoding="utf8") as f:
     f.write(wiki_arithmetic_code.bin)
 
