@@ -5,6 +5,7 @@ from transformers import GPT2LMHeadModel, GPT2TokenizerFast
 
 model_id = 'gpt2' # @param ["gpt2", "gpt2-medium", "gpt2-large", "gpt2-xl"]
 dataset_split = "test" #@param ["train", "test", "validation"]
+stride = 512
 
 # --------------------------------------------------------------------------------
 # Load the model
@@ -86,7 +87,6 @@ seq_len = encodings.input_ids.size(1)
 
 intervals_list = []
 
-stride = 512
 for begin_loc in tqdm(range(0, seq_len, stride)):
     end_loc = min(begin_loc + max_length, seq_len)
     if end_loc + 1 >= seq_len:
