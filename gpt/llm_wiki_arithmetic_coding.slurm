@@ -6,9 +6,12 @@
 #SBATCH --mem=8gb
 #SBATCH --gres=gpu:1
 
+# for model_id in gpt2 gpt2-medium gpt2-large gpt2-xl; do sbatch --export=ALL,WANDB_API_KEY,MODEL_ID=$model_id your_slurm_script.sh; done
+
 projectfolder=/nas/ucb/yuxiliu1995/scaling-law-research/gpt
 scriptname=llm_wiki_arithmetic_coding.py
-modelid=gpt2-large
+modelid=${MODEL_ID:-gpt2}
+
 cd $projectfolder
 
 eval "$(/nas/ucb/yuxiliu1995/miniconda/bin/conda shell.bash hook)"
