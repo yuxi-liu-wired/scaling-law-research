@@ -6,7 +6,7 @@
 #SBATCH --mem=8gb
 #SBATCH --gres=gpu:1
 
-# for model_id in gpt2 gpt2-medium gpt2-large gpt2-xl; do sbatch --export=ALL,WANDB_API_KEY,MODEL_ID=$model_id your_slurm_script.sh; done
+# for model_id in gpt2 gpt2-medium gpt2-large gpt2-xl; do sbatch --export=ALL,WANDB_API_KEY,MODEL_ID=$model_id llm_wiki_arithmetic_coding.slurm; done
 
 projectfolder=/nas/ucb/yuxiliu1995/scaling-law-research/gpt
 scriptname=llm_wiki_arithmetic_coding.py

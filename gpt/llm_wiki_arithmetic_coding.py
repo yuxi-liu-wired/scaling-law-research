@@ -22,6 +22,7 @@ args = parser.parse_args()
 model_id = args.model_id
 dataset_split = args.dataset_split
 stride = args.stride
+print(f"Computing wiki_arithmetic_code_{model_id}_{dataset_split}_{stride}...")
 
 # --------------------------------------------------------------------------------
 # Load the model
