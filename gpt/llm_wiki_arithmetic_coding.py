@@ -114,7 +114,7 @@ for begin_loc in tqdm(range(0, seq_len, stride)):
 
     logits = outputs.logits[0, -stride:]
     symbols = encodings.input_ids[:, end_loc+1-stride:end_loc+1]
-    intervals_list.append(get_intervals(logits, symbols, epsilon=1e-7))
+    intervals_list.append(get_intervals(logits, symbols, epsilon=1e-6))
 
 
 # --------------------------------------------------------------------------------
@@ -127,11 +127,14 @@ ae = ArithmeticCode(32)
 intervals = torch.cat(intervals_list, axis=0)
 wiki_arithmetic_code = ae.encode_intervals(intervals)
 
-print(f"Originally {intervals.shape[0]} characters.")
+print(f"using model {model_id}")
+print(f"Originally {intervals.shape[0]} tokens.")
 print(f"File compressed to {len(wiki_arithmetic_code)} bits, which is {len(wiki_arithmetic_code)/2**23:.2f} MB.")
 print(f"The arithmetic interval has length {-torch.log2(intervals[:, 1] - intervals[:, 0]).sum():.2f} bits.")
 print(f"Bit rate = {len(wiki_arithmetic_code)/intervals.shape[0]:.2f} bit/token")
-print(f"         = {len(wiki_arithmetic_code)/len(dataset[dataset_split]):.2f} bit/token")
+print(
+    f"         = {len(wiki_arithmetic_code)/len(dataset[dataset_split]):.2f} bit/char"
+)
 
 save_file = f"wiki_arithmetic_code_{model_id}_{dataset_split}_{stride}"
 
