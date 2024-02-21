@@ -1,4 +1,4 @@
-import numpy as np
+import numpy
 from nistrng import *
 
 
@@ -19,7 +19,7 @@ def nist_test_suite(binary_sequence):
         if result.passed:
             print(
                 "- PASSED - score: "
-                + str(np.round(result.score, 3))
+                + str(numpy.round(result.score, 3))
                 + " - "
                 + result.name
                 + " - elapsed time: "
@@ -29,7 +29,7 @@ def nist_test_suite(binary_sequence):
         else:
             print(
                 "- FAILED - score: "
-                + str(np.round(result.score, 3))
+                + str(numpy.round(result.score, 3))
                 + " - "
                 + result.name
                 + " - elapsed time: "
@@ -41,6 +41,6 @@ def nist_test_suite(binary_sequence):
 save_file = "wiki_arithmetic_code_gpt2-xl_test_1"
 with open(f"{save_file}.txt", "r", encoding="utf8") as f:
     code = f.read()
-binary_sequence = np.array([int(i) for i in code], dtype=int)
+binary_sequence = numpy.array([int(i) for i in code], dtype=int)
 
 nist_test_suite(binary_sequence)
