@@ -96,3 +96,29 @@ binary_sequence = numpy.array([int(i) for i in format(bits, 'b')], dtype=int)
 - FAILED - score: 0.0 - Cumulative Sums - elapsed time: 5544 ms
 - FAILED - score: 0.63 - Random Excursion - elapsed time: 18154 ms
 - FAILED - score: 0.0 - Random Excursion Variant - elapsed time: 71 ms
+
+### Compressor arena
+
+Trying to run the typical compressors on the binary file gives:
+
+| Compression Tool                                    | Ratio                      |
+| --------------------------------------------------- | -------------------------- |
+| PAQ8PX (several settings)                           | 1.00                 |
+| XZ                                                  | 0.99950973                 |
+| ZSTD                                                | 0.99986091                 |
+| Brotli                                              | 0.99996339                 |
+| 7ZA                                                 | 0.99856713                 |
+
+Even the best compressor (7ZA) is able to compress the file by only 0.14%. This is not surprising, as the file is already very close to random.
+
+However this is much higher than what I think is theoretically possible. Theoretically, we should be able to compress Wikipedia to 0.8 bpc, and the file is already at 0.9 bpc, so we should be able to compress `wiki_arithmetic_code_gpt2-xl_test_1.bin` by a ratio of 0.8/0.9 = 89%.
+
+## 02-21
+
+Ran the NIST test suite again, this time in C. The only pseudorandomness test that failed is the Maurers Universal Test. This is bizarre because none of the compression algorithms I tried managed to compress the file by more than 0.14%. I'm not sure what to make of this.
+
+I did check the test suite on `urandom` output, and that passed all tests. I have no idea what to do with this.
+
+Actually I reimplemented the Maurers Universal Test in Python and ran it on `wiki_arithmetic_code_gpt2-xl_test_1.txt`. It passed. I'm not sure what to make of this.
+
+Still, all evidence points to the probable conclusion that there is no "free lunch" in intelligence by route of compression. To compress an LLM-compressed file further, the second-stage compressor would have to be at least as powerful as the first-stage compressor. This can be intuitive, but disappointing.

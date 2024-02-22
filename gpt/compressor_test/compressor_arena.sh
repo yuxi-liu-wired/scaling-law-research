@@ -40,9 +40,9 @@ print_compression_ratio "$FILENAME.zst" "zstd"
 brotli -Zk "$FILENAME" -o "$FILENAME.br"
 print_compression_ratio "$FILENAME.br" "Brotli"
 
-# PAQ compression (example with paq8l, adjust as needed)
-paq8px -8ael "$FILENAME" "$FILENAME.paq8l" # Uncomment if paq8l is available
-print_compression_ratio "$FILENAME.paq8l" "PAQ8l" # Uncomment if paq8l is available
+# PAQ compression
+paq8px -8ael "$FILENAME" "$FILENAME.paq8"
+print_compression_ratio "$FILENAME.paq8" "paq8px"
 
 # Clean up compressed files (optional, uncomment if desired)
 rm -f "$FILENAME.xz" "$FILENAME.7z" "$FILENAME.zst" "$FILENAME.br" "$FILENAME.paq8l"
